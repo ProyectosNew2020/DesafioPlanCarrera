@@ -1,0 +1,7 @@
+09:47 Infra: "Veo alerta de DB al 92% de conexiones. ¿Será la base?"
+09:49 App: "Los pods están reiniciándose por liveness."
+09:50 Desarrollo: "customer-profile parece responder en ~100ms cuando recibe la llamada."
+09:51 Operaciones: "El error aumentó después de perder pods."
+09:54 DBA: "La alerta que ven es db-reporting-01; revisar datasource de orders-api."
+09:58 DevOps: "4.18.0 cambió values de cliente HTTP. Pipeline pasó."
+10:01 App: "En logs aparece clientPoolWaitMs creciendo; leased=20 max=20."

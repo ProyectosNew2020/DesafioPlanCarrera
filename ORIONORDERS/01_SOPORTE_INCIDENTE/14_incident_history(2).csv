@@ -1,0 +1,4 @@
+incident_id,date,summary,root_cause,resolution
+P1-7612,2026-05-14,Orders 5xx y latencia,DB primary saturada,Optimización SQL y aumento temporal capacidad
+P2-7991,2026-06-19,Reinicios de pods,Memory leak,Ajuste aplicación
+P2-8410,2026-08-11,Errores al consultar perfil,customer-profile 500,Rollback servicio downstream

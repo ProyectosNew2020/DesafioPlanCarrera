@@ -1,0 +1,17 @@
+P1-8841 - OrionOrders
+Inicio: 2026-09-29 09:42
+Declarado P1: 09:49
+
+Impacto:
+- 4 clientes empresariales con operaciones intermitentes.
+- p95 > 8 s.
+- 502/503 entre 12% y 35%.
+- pedidos nuevos tardan o fallan.
+- no hay evidencia inicial de pérdida de datos.
+
+Eventos cercanos:
+09:30 - Release 4.18.0 completado.
+09:42 - primera alerta de latencia.
+09:45 - primeros pods reiniciados.
+09:47 - alerta DB connections.
+09:49 - P1 declarado.

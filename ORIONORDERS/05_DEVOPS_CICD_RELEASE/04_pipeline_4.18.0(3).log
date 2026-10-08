@@ -1,0 +1,14 @@
+09:21 build ......................... PASS
+09:23 unit tests ................... PASS (486 tests)
+09:25 static analysis .............. PASS
+09:26 container scan ............... PASS
+09:28 helm template ................ PASS
+09:29 deploy production ............ PASS
+09:30 rollout complete ............. PASS
+09:31 smoke /health ................ PASS
+09:32 smoke create-test-order ...... PASS
+
+Validation notes:
+- helm schema validates type and presence.
+- no validation exists for minimum/maximum expected value of CUSTOMER_PROFILE_MAX_CONNECTIONS.
+- no production-like load test is part of this pipeline.

@@ -1,0 +1,747 @@
+2026-09-29T09:35:00.000-05:00 INFO requestId=r-900000 route=/api/orders status=200 totalMs=180 customerProfileMs=105 clientPoolWaitMs=0
+2026-09-29T09:35:10.000-05:00 INFO requestId=r-900001 route=/api/orders status=200 totalMs=228 customerProfileMs=138 clientPoolWaitMs=0
+2026-09-29T09:35:20.000-05:00 INFO requestId=r-900002 route=/api/orders status=200 totalMs=303 customerProfileMs=103 clientPoolWaitMs=0
+2026-09-29T09:35:30.000-05:00 INFO requestId=r-900003 route=/api/orders status=200 totalMs=138 customerProfileMs=79 clientPoolWaitMs=0
+2026-09-29T09:35:40.000-05:00 INFO requestId=r-900004 route=/api/orders status=200 totalMs=241 customerProfileMs=72 clientPoolWaitMs=0
+2026-09-29T09:35:50.000-05:00 INFO requestId=r-900005 route=/api/orders status=200 totalMs=197 customerProfileMs=150 clientPoolWaitMs=0
+2026-09-29T09:36:00.000-05:00 INFO requestId=r-900006 route=/api/orders status=200 totalMs=332 customerProfileMs=144 clientPoolWaitMs=0
+2026-09-29T09:36:10.000-05:00 INFO requestId=r-900007 route=/api/orders status=200 totalMs=312 customerProfileMs=121 clientPoolWaitMs=0
+2026-09-29T09:36:20.000-05:00 INFO requestId=r-900008 route=/api/orders status=200 totalMs=146 customerProfileMs=97 clientPoolWaitMs=0
+2026-09-29T09:36:30.000-05:00 INFO requestId=r-900009 route=/api/orders status=200 totalMs=246 customerProfileMs=140 clientPoolWaitMs=0
+2026-09-29T09:36:40.000-05:00 INFO requestId=r-900010 route=/api/orders status=200 totalMs=317 customerProfileMs=139 clientPoolWaitMs=0
+2026-09-29T09:36:50.000-05:00 INFO requestId=r-900011 route=/api/orders status=200 totalMs=337 customerProfileMs=130 clientPoolWaitMs=0
+2026-09-29T09:37:00.000-05:00 INFO requestId=r-900012 route=/api/orders status=200 totalMs=222 customerProfileMs=89 clientPoolWaitMs=0
+2026-09-29T09:37:10.000-05:00 INFO requestId=r-900013 route=/api/orders status=200 totalMs=217 customerProfileMs=120 clientPoolWaitMs=0
+2026-09-29T09:37:20.000-05:00 INFO requestId=r-900014 route=/api/orders status=200 totalMs=259 customerProfileMs=145 clientPoolWaitMs=0
+2026-09-29T09:37:30.000-05:00 INFO requestId=r-900015 route=/api/orders status=200 totalMs=245 customerProfileMs=87 clientPoolWaitMs=0
+2026-09-29T09:37:40.000-05:00 INFO requestId=r-900016 route=/api/orders status=200 totalMs=304 customerProfileMs=134 clientPoolWaitMs=0
+2026-09-29T09:37:50.000-05:00 INFO requestId=r-900017 route=/api/orders status=200 totalMs=222 customerProfileMs=81 clientPoolWaitMs=0
+2026-09-29T09:38:00.000-05:00 INFO requestId=r-900018 route=/api/orders status=200 totalMs=284 customerProfileMs=116 clientPoolWaitMs=0
+2026-09-29T09:38:10.000-05:00 INFO requestId=r-900019 route=/api/orders status=200 totalMs=280 customerProfileMs=71 clientPoolWaitMs=0
+2026-09-29T09:38:20.000-05:00 INFO requestId=r-900020 route=/api/orders status=200 totalMs=297 customerProfileMs=100 clientPoolWaitMs=0
+2026-09-29T09:38:30.000-05:00 INFO requestId=r-900021 route=/api/orders status=200 totalMs=262 customerProfileMs=91 clientPoolWaitMs=0
+2026-09-29T09:38:40.000-05:00 INFO requestId=r-900022 route=/api/orders status=200 totalMs=241 customerProfileMs=87 clientPoolWaitMs=0
+2026-09-29T09:38:50.000-05:00 INFO requestId=r-900023 route=/api/orders status=200 totalMs=175 customerProfileMs=90 clientPoolWaitMs=0
+2026-09-29T09:39:00.000-05:00 INFO requestId=r-900024 route=/api/orders status=200 totalMs=326 customerProfileMs=142 clientPoolWaitMs=0
+2026-09-29T09:39:10.000-05:00 INFO requestId=r-900025 route=/api/orders status=200 totalMs=251 customerProfileMs=88 clientPoolWaitMs=0
+2026-09-29T09:39:20.000-05:00 INFO requestId=r-900026 route=/api/orders status=200 totalMs=165 customerProfileMs=115 clientPoolWaitMs=0
+2026-09-29T09:39:30.000-05:00 INFO requestId=r-900027 route=/api/orders status=200 totalMs=262 customerProfileMs=98 clientPoolWaitMs=0
+2026-09-29T09:39:40.000-05:00 INFO requestId=r-900028 route=/api/orders status=200 totalMs=155 customerProfileMs=99 clientPoolWaitMs=0
+2026-09-29T09:39:50.000-05:00 INFO requestId=r-900029 route=/api/orders status=200 totalMs=237 customerProfileMs=103 clientPoolWaitMs=0
+2026-09-29T09:40:00.000-05:00 INFO requestId=r-900030 route=/api/orders status=200 totalMs=149 customerProfileMs=99 clientPoolWaitMs=0
+2026-09-29T09:40:10.000-05:00 INFO requestId=r-900031 route=/api/orders status=200 totalMs=268 customerProfileMs=96 clientPoolWaitMs=0
+2026-09-29T09:40:20.000-05:00 INFO requestId=r-900032 route=/api/orders status=200 totalMs=255 customerProfileMs=116 clientPoolWaitMs=0
+2026-09-29T09:40:30.000-05:00 INFO requestId=r-900033 route=/api/orders status=200 totalMs=286 customerProfileMs=130 clientPoolWaitMs=0
+2026-09-29T09:40:40.000-05:00 INFO requestId=r-900034 route=/api/orders status=200 totalMs=125 customerProfileMs=75 clientPoolWaitMs=0
+2026-09-29T09:40:50.000-05:00 INFO requestId=r-900035 route=/api/orders status=200 totalMs=177 customerProfileMs=111 clientPoolWaitMs=0
+2026-09-29T09:41:00.000-05:00 INFO requestId=r-900036 route=/api/orders status=200 totalMs=338 customerProfileMs=136 clientPoolWaitMs=0
+2026-09-29T09:41:10.000-05:00 INFO requestId=r-900037 route=/api/orders status=200 totalMs=212 customerProfileMs=105 clientPoolWaitMs=0
+2026-09-29T09:41:20.000-05:00 INFO requestId=r-900038 route=/api/orders status=200 totalMs=323 customerProfileMs=144 clientPoolWaitMs=0
+2026-09-29T09:41:30.000-05:00 INFO requestId=r-900039 route=/api/orders status=200 totalMs=226 customerProfileMs=142 clientPoolWaitMs=0
+2026-09-29T09:41:40.000-05:00 INFO requestId=r-900040 route=/api/orders status=200 totalMs=325 customerProfileMs=118 clientPoolWaitMs=0
+2026-09-29T09:41:50.000-05:00 INFO requestId=r-900041 route=/api/orders status=200 totalMs=251 customerProfileMs=118 clientPoolWaitMs=0
+2026-09-29T09:42:00.000-05:00 INFO requestId=r-900042 route=/api/orders status=200 totalMs=499 customerProfileMs=168 clientPoolWaitMs=159
+2026-09-29T09:42:10.000-05:00 INFO requestId=r-900043 route=/api/orders status=200 totalMs=807 customerProfileMs=133 clientPoolWaitMs=502
+2026-09-29T09:42:20.000-05:00 INFO requestId=r-900044 route=/api/orders status=200 totalMs=1093 customerProfileMs=130 clientPoolWaitMs=799
+2026-09-29T09:42:30.000-05:00 INFO requestId=r-900045 route=/api/orders status=200 totalMs=483 customerProfileMs=162 clientPoolWaitMs=153
+2026-09-29T09:42:40.000-05:00 INFO requestId=r-900046 route=/api/orders status=200 totalMs=764 customerProfileMs=141 clientPoolWaitMs=525
+2026-09-29T09:42:50.000-05:00 INFO requestId=r-900047 route=/api/orders status=200 totalMs=1052 customerProfileMs=150 clientPoolWaitMs=808
+2026-09-29T09:43:00.000-05:00 INFO requestId=r-900048 route=/api/orders status=200 totalMs=842 customerProfileMs=108 clientPoolWaitMs=602
+2026-09-29T09:43:10.000-05:00 INFO requestId=r-900049 route=/api/orders status=200 totalMs=1043 customerProfileMs=100 clientPoolWaitMs=797
+2026-09-29T09:43:20.000-05:00 INFO requestId=r-900050 route=/api/orders status=200 totalMs=1670 customerProfileMs=99 clientPoolWaitMs=1359
+2026-09-29T09:43:20.002-05:00 WARN requestId=r-900050 component=customerProfileHttpPool leased=20 max=20 pending=19
+2026-09-29T09:43:30.000-05:00 INFO requestId=r-900051 route=/api/orders status=200 totalMs=1188 customerProfileMs=146 clientPoolWaitMs=851
+2026-09-29T09:43:40.000-05:00 INFO requestId=r-900052 route=/api/orders status=200 totalMs=1519 customerProfileMs=167 clientPoolWaitMs=1307
+2026-09-29T09:43:40.002-05:00 WARN requestId=r-900052 component=customerProfileHttpPool leased=20 max=20 pending=18
+2026-09-29T09:43:50.000-05:00 INFO requestId=r-900053 route=/api/orders status=200 totalMs=1050 customerProfileMs=90 clientPoolWaitMs=774
+2026-09-29T09:44:00.000-05:00 INFO requestId=r-900054 route=/api/orders status=200 totalMs=1141 customerProfileMs=105 clientPoolWaitMs=835
+2026-09-29T09:44:10.000-05:00 INFO requestId=r-900055 route=/api/orders status=200 totalMs=1945 customerProfileMs=90 clientPoolWaitMs=1778
+2026-09-29T09:44:10.002-05:00 WARN requestId=r-900055 component=customerProfileHttpPool leased=20 max=20 pending=25
+2026-09-29T09:44:20.000-05:00 INFO requestId=r-900056 route=/api/orders status=200 totalMs=1373 customerProfileMs=106 clientPoolWaitMs=1181
+2026-09-29T09:44:20.002-05:00 WARN requestId=r-900056 component=customerProfileHttpPool leased=20 max=20 pending=16
+2026-09-29T09:44:30.000-05:00 INFO requestId=r-900057 route=/api/orders status=200 totalMs=2193 customerProfileMs=136 clientPoolWaitMs=1854
+2026-09-29T09:44:30.002-05:00 WARN requestId=r-900057 component=customerProfileHttpPool leased=20 max=20 pending=26
+2026-09-29T09:44:40.000-05:00 INFO requestId=r-900058 route=/api/orders status=200 totalMs=1556 customerProfileMs=169 clientPoolWaitMs=1326
+2026-09-29T09:44:40.002-05:00 WARN requestId=r-900058 component=customerProfileHttpPool leased=20 max=20 pending=18
+2026-09-29T09:44:50.000-05:00 INFO requestId=r-900059 route=/api/orders status=200 totalMs=2063 customerProfileMs=142 clientPoolWaitMs=1758
+2026-09-29T09:44:50.002-05:00 WARN requestId=r-900059 component=customerProfileHttpPool leased=20 max=20 pending=25
+2026-09-29T09:45:00.000-05:00 INFO requestId=r-900060 route=/api/orders status=200 totalMs=1987 customerProfileMs=113 clientPoolWaitMs=1681
+2026-09-29T09:45:00.002-05:00 WARN requestId=r-900060 component=customerProfileHttpPool leased=20 max=20 pending=24
+2026-09-29T09:45:10.000-05:00 INFO requestId=r-900061 route=/api/orders status=200 totalMs=1616 customerProfileMs=159 clientPoolWaitMs=1258
+2026-09-29T09:45:10.002-05:00 WARN requestId=r-900061 component=customerProfileHttpPool leased=20 max=20 pending=17
+2026-09-29T09:45:20.000-05:00 INFO requestId=r-900062 route=/api/orders status=200 totalMs=1609 customerProfileMs=118 clientPoolWaitMs=1276
+2026-09-29T09:45:20.002-05:00 WARN requestId=r-900062 component=customerProfileHttpPool leased=20 max=20 pending=18
+2026-09-29T09:45:30.000-05:00 INFO requestId=r-900063 route=/api/orders status=200 totalMs=1361 customerProfileMs=143 clientPoolWaitMs=1120
+2026-09-29T09:45:30.002-05:00 WARN requestId=r-900063 component=customerProfileHttpPool leased=20 max=20 pending=16
+2026-09-29T09:45:40.000-05:00 INFO requestId=r-900064 route=/api/orders status=200 totalMs=1497 customerProfileMs=134 clientPoolWaitMs=1296
+2026-09-29T09:45:40.002-05:00 WARN requestId=r-900064 component=customerProfileHttpPool leased=20 max=20 pending=18
+2026-09-29T09:45:50.000-05:00 INFO requestId=r-900065 route=/api/orders status=200 totalMs=2422 customerProfileMs=110 clientPoolWaitMs=2143
+2026-09-29T09:45:50.002-05:00 WARN requestId=r-900065 component=customerProfileHttpPool leased=20 max=20 pending=30
+2026-09-29T09:46:00.000-05:00 INFO requestId=r-900066 route=/api/orders status=200 totalMs=1506 customerProfileMs=104 clientPoolWaitMs=1317
+2026-09-29T09:46:00.002-05:00 WARN requestId=r-900066 component=customerProfileHttpPool leased=20 max=20 pending=18
+2026-09-29T09:46:10.000-05:00 INFO requestId=r-900067 route=/api/orders status=200 totalMs=1584 customerProfileMs=163 clientPoolWaitMs=1245
+2026-09-29T09:46:10.002-05:00 WARN requestId=r-900067 component=customerProfileHttpPool leased=20 max=20 pending=17
+2026-09-29T09:46:20.000-05:00 INFO requestId=r-900068 route=/api/orders status=200 totalMs=1666 customerProfileMs=100 clientPoolWaitMs=1403
+2026-09-29T09:46:20.002-05:00 WARN requestId=r-900068 component=customerProfileHttpPool leased=20 max=20 pending=20
+2026-09-29T09:46:30.000-05:00 INFO requestId=r-900069 route=/api/orders status=200 totalMs=2739 customerProfileMs=162 clientPoolWaitMs=2364
+2026-09-29T09:46:30.002-05:00 WARN requestId=r-900069 component=customerProfileHttpPool leased=20 max=20 pending=33
+2026-09-29T09:46:40.000-05:00 INFO requestId=r-900070 route=/api/orders status=200 totalMs=2452 customerProfileMs=151 clientPoolWaitMs=2167
+2026-09-29T09:46:40.002-05:00 WARN requestId=r-900070 component=customerProfileHttpPool leased=20 max=20 pending=30
+2026-09-29T09:46:50.000-05:00 INFO requestId=r-900071 route=/api/orders status=503 totalMs=2520 customerProfileMs=152 clientPoolWaitMs=2231
+2026-09-29T09:46:50.002-05:00 WARN requestId=r-900071 component=customerProfileHttpPool leased=20 max=20 pending=31
+2026-09-29T09:47:00.000-05:00 INFO requestId=r-900072 route=/api/orders status=502 totalMs=2844 customerProfileMs=160 clientPoolWaitMs=2579
+2026-09-29T09:47:00.002-05:00 WARN requestId=r-900072 component=customerProfileHttpPool leased=20 max=20 pending=36
+2026-09-29T09:47:10.000-05:00 INFO requestId=r-900073 route=/api/orders status=200 totalMs=1843 customerProfileMs=114 clientPoolWaitMs=1617
+2026-09-29T09:47:10.002-05:00 WARN requestId=r-900073 component=customerProfileHttpPool leased=20 max=20 pending=23
+2026-09-29T09:47:20.000-05:00 INFO requestId=r-900074 route=/api/orders status=502 totalMs=2524 customerProfileMs=154 clientPoolWaitMs=2329
+2026-09-29T09:47:20.002-05:00 WARN requestId=r-900074 component=customerProfileHttpPool leased=20 max=20 pending=33
+2026-09-29T09:47:30.000-05:00 INFO requestId=r-900075 route=/api/orders status=200 totalMs=2105 customerProfileMs=151 clientPoolWaitMs=1781
+2026-09-29T09:47:30.002-05:00 WARN requestId=r-900075 component=customerProfileHttpPool leased=20 max=20 pending=25
+2026-09-29T09:47:40.000-05:00 INFO requestId=r-900076 route=/api/orders status=200 totalMs=2355 customerProfileMs=133 clientPoolWaitMs=2006
+2026-09-29T09:47:40.002-05:00 WARN requestId=r-900076 component=customerProfileHttpPool leased=20 max=20 pending=28
+2026-09-29T09:47:50.000-05:00 INFO requestId=r-900077 route=/api/orders status=503 totalMs=2717 customerProfileMs=137 clientPoolWaitMs=2374
+2026-09-29T09:47:50.002-05:00 WARN requestId=r-900077 component=customerProfileHttpPool leased=20 max=20 pending=33
+2026-09-29T09:48:00.000-05:00 INFO requestId=r-900078 route=/api/orders status=200 totalMs=2480 customerProfileMs=117 clientPoolWaitMs=2215
+2026-09-29T09:48:00.002-05:00 WARN requestId=r-900078 component=customerProfileHttpPool leased=20 max=20 pending=31
+2026-09-29T09:48:10.000-05:00 INFO requestId=r-900079 route=/api/orders status=200 totalMs=2562 customerProfileMs=131 clientPoolWaitMs=2290
+2026-09-29T09:48:10.002-05:00 WARN requestId=r-900079 component=customerProfileHttpPool leased=20 max=20 pending=32
+2026-09-29T09:48:20.000-05:00 INFO requestId=r-900080 route=/api/orders status=200 totalMs=3203 customerProfileMs=137 clientPoolWaitMs=2903
+2026-09-29T09:48:20.002-05:00 WARN requestId=r-900080 component=customerProfileHttpPool leased=20 max=20 pending=41
+2026-09-29T09:48:30.000-05:00 INFO requestId=r-900081 route=/api/orders status=200 totalMs=3201 customerProfileMs=132 clientPoolWaitMs=2965
+2026-09-29T09:48:30.002-05:00 WARN requestId=r-900081 component=customerProfileHttpPool leased=20 max=20 pending=42
+2026-09-29T09:48:40.000-05:00 INFO requestId=r-900082 route=/api/orders status=200 totalMs=2870 customerProfileMs=158 clientPoolWaitMs=2571
+2026-09-29T09:48:40.002-05:00 WARN requestId=r-900082 component=customerProfileHttpPool leased=20 max=20 pending=36
+2026-09-29T09:48:50.000-05:00 INFO requestId=r-900083 route=/api/orders status=200 totalMs=2423 customerProfileMs=169 clientPoolWaitMs=2156
+2026-09-29T09:48:50.002-05:00 WARN requestId=r-900083 component=customerProfileHttpPool leased=20 max=20 pending=30
+2026-09-29T09:49:00.000-05:00 INFO requestId=r-900084 route=/api/orders status=200 totalMs=2364 customerProfileMs=105 clientPoolWaitMs=2165
+2026-09-29T09:49:00.002-05:00 WARN requestId=r-900084 component=customerProfileHttpPool leased=20 max=20 pending=30
+2026-09-29T09:49:10.000-05:00 INFO requestId=r-900085 route=/api/orders status=200 totalMs=3032 customerProfileMs=136 clientPoolWaitMs=2699
+2026-09-29T09:49:10.002-05:00 WARN requestId=r-900085 component=customerProfileHttpPool leased=20 max=20 pending=38
+2026-09-29T09:49:20.000-05:00 INFO requestId=r-900086 route=/api/orders status=200 totalMs=2995 customerProfileMs=105 clientPoolWaitMs=2849
+2026-09-29T09:49:20.002-05:00 WARN requestId=r-900086 component=customerProfileHttpPool leased=20 max=20 pending=40
+2026-09-29T09:49:30.000-05:00 INFO requestId=r-900087 route=/api/orders status=200 totalMs=3319 customerProfileMs=103 clientPoolWaitMs=3065
+2026-09-29T09:49:30.002-05:00 WARN requestId=r-900087 component=customerProfileHttpPool leased=20 max=20 pending=43
+2026-09-29T09:49:40.000-05:00 INFO requestId=r-900088 route=/api/orders status=502 totalMs=2972 customerProfileMs=93 clientPoolWaitMs=2684
+2026-09-29T09:49:40.002-05:00 WARN requestId=r-900088 component=customerProfileHttpPool leased=20 max=20 pending=38
+2026-09-29T09:49:50.000-05:00 INFO requestId=r-900089 route=/api/orders status=200 totalMs=3320 customerProfileMs=134 clientPoolWaitMs=3013
+2026-09-29T09:49:50.002-05:00 WARN requestId=r-900089 component=customerProfileHttpPool leased=20 max=20 pending=43
+2026-09-29T09:50:00.000-05:00 INFO requestId=r-900090 route=/api/orders status=200 totalMs=2602 customerProfileMs=161 clientPoolWaitMs=2357
+2026-09-29T09:50:00.002-05:00 WARN requestId=r-900090 component=customerProfileHttpPool leased=20 max=20 pending=33
+2026-09-29T09:50:10.000-05:00 INFO requestId=r-900091 route=/api/orders status=503 totalMs=2537 customerProfileMs=141 clientPoolWaitMs=2307
+2026-09-29T09:50:10.002-05:00 WARN requestId=r-900091 component=customerProfileHttpPool leased=20 max=20 pending=32
+2026-09-29T09:50:20.000-05:00 INFO requestId=r-900092 route=/api/orders status=200 totalMs=3638 customerProfileMs=161 clientPoolWaitMs=3378
+2026-09-29T09:50:20.002-05:00 WARN requestId=r-900092 component=customerProfileHttpPool leased=20 max=20 pending=48
+2026-09-29T09:50:30.000-05:00 INFO requestId=r-900093 route=/api/orders status=502 totalMs=2639 customerProfileMs=106 clientPoolWaitMs=2453
+2026-09-29T09:50:30.002-05:00 WARN requestId=r-900093 component=customerProfileHttpPool leased=20 max=20 pending=35
+2026-09-29T09:50:40.000-05:00 INFO requestId=r-900094 route=/api/orders status=503 totalMs=3507 customerProfileMs=120 clientPoolWaitMs=3244
+2026-09-29T09:50:40.002-05:00 WARN requestId=r-900094 component=customerProfileHttpPool leased=20 max=20 pending=46
+2026-09-29T09:50:50.000-05:00 INFO requestId=r-900095 route=/api/orders status=502 totalMs=3706 customerProfileMs=110 clientPoolWaitMs=3533
+2026-09-29T09:50:50.002-05:00 WARN requestId=r-900095 component=customerProfileHttpPool leased=20 max=20 pending=50
+2026-09-29T09:51:00.000-05:00 INFO requestId=r-900096 route=/api/orders status=200 totalMs=3915 customerProfileMs=121 clientPoolWaitMs=3665
+2026-09-29T09:51:00.002-05:00 WARN requestId=r-900096 component=customerProfileHttpPool leased=20 max=20 pending=52
+2026-09-29T09:51:10.000-05:00 INFO requestId=r-900097 route=/api/orders status=200 totalMs=3238 customerProfileMs=120 clientPoolWaitMs=3029
+2026-09-29T09:51:10.002-05:00 WARN requestId=r-900097 component=customerProfileHttpPool leased=20 max=20 pending=43
+2026-09-29T09:51:20.000-05:00 INFO requestId=r-900098 route=/api/orders status=502 totalMs=4070 customerProfileMs=136 clientPoolWaitMs=3790
+2026-09-29T09:51:20.002-05:00 WARN requestId=r-900098 component=customerProfileHttpPool leased=20 max=20 pending=54
+2026-09-29T09:51:30.000-05:00 INFO requestId=r-900099 route=/api/orders status=503 totalMs=4029 customerProfileMs=98 clientPoolWaitMs=3804
+2026-09-29T09:51:30.002-05:00 WARN requestId=r-900099 component=customerProfileHttpPool leased=20 max=20 pending=54
+2026-09-29T09:51:40.000-05:00 INFO requestId=r-900100 route=/api/orders status=200 totalMs=3570 customerProfileMs=150 clientPoolWaitMs=3233
+2026-09-29T09:51:40.002-05:00 WARN requestId=r-900100 component=customerProfileHttpPool leased=20 max=20 pending=46
+2026-09-29T09:51:50.000-05:00 INFO requestId=r-900101 route=/api/orders status=200 totalMs=3768 customerProfileMs=141 clientPoolWaitMs=3525
+2026-09-29T09:51:50.002-05:00 WARN requestId=r-900101 component=customerProfileHttpPool leased=20 max=20 pending=50
+2026-09-29T09:52:00.000-05:00 INFO requestId=r-900102 route=/api/orders status=200 totalMs=3933 customerProfileMs=143 clientPoolWaitMs=3743
+2026-09-29T09:52:00.002-05:00 WARN requestId=r-900102 component=customerProfileHttpPool leased=20 max=20 pending=53
+2026-09-29T09:52:10.000-05:00 INFO requestId=r-900103 route=/api/orders status=502 totalMs=3686 customerProfileMs=99 clientPoolWaitMs=3374
+2026-09-29T09:52:10.002-05:00 WARN requestId=r-900103 component=customerProfileHttpPool leased=20 max=20 pending=48
+2026-09-29T09:52:20.000-05:00 INFO requestId=r-900104 route=/api/orders status=200 totalMs=4034 customerProfileMs=125 clientPoolWaitMs=3737
+2026-09-29T09:52:20.002-05:00 WARN requestId=r-900104 component=customerProfileHttpPool leased=20 max=20 pending=53
+2026-09-29T09:52:30.000-05:00 INFO requestId=r-900105 route=/api/orders status=502 totalMs=3707 customerProfileMs=86 clientPoolWaitMs=3479
+2026-09-29T09:52:30.002-05:00 WARN requestId=r-900105 component=customerProfileHttpPool leased=20 max=20 pending=49
+2026-09-29T09:52:40.000-05:00 INFO requestId=r-900106 route=/api/orders status=200 totalMs=4376 customerProfileMs=94 clientPoolWaitMs=4121
+2026-09-29T09:52:40.002-05:00 WARN requestId=r-900106 component=customerProfileHttpPool leased=20 max=20 pending=58
+2026-09-29T09:52:50.000-05:00 INFO requestId=r-900107 route=/api/orders status=200 totalMs=3718 customerProfileMs=130 clientPoolWaitMs=3480
+2026-09-29T09:52:50.002-05:00 WARN requestId=r-900107 component=customerProfileHttpPool leased=20 max=20 pending=49
+2026-09-29T09:53:00.000-05:00 INFO requestId=r-900108 route=/api/orders status=200 totalMs=4310 customerProfileMs=109 clientPoolWaitMs=4101
+2026-09-29T09:53:00.002-05:00 WARN requestId=r-900108 component=customerProfileHttpPool leased=20 max=20 pending=58
+2026-09-29T09:53:10.000-05:00 INFO requestId=r-900109 route=/api/orders status=502 totalMs=3865 customerProfileMs=118 clientPoolWaitMs=3549
+2026-09-29T09:53:10.002-05:00 WARN requestId=r-900109 component=customerProfileHttpPool leased=20 max=20 pending=50
+2026-09-29T09:53:20.000-05:00 INFO requestId=r-900110 route=/api/orders status=502 totalMs=3708 customerProfileMs=104 clientPoolWaitMs=3391
+2026-09-29T09:53:20.002-05:00 WARN requestId=r-900110 component=customerProfileHttpPool leased=20 max=20 pending=48
+2026-09-29T09:53:30.000-05:00 INFO requestId=r-900111 route=/api/orders status=200 totalMs=3574 customerProfileMs=163 clientPoolWaitMs=3233
+2026-09-29T09:53:30.002-05:00 WARN requestId=r-900111 component=customerProfileHttpPool leased=20 max=20 pending=46
+2026-09-29T09:53:40.000-05:00 INFO requestId=r-900112 route=/api/orders status=200 totalMs=4338 customerProfileMs=146 clientPoolWaitMs=4026
+2026-09-29T09:53:40.002-05:00 WARN requestId=r-900112 component=customerProfileHttpPool leased=20 max=20 pending=57
+2026-09-29T09:53:50.000-05:00 INFO requestId=r-900113 route=/api/orders status=503 totalMs=4579 customerProfileMs=120 clientPoolWaitMs=4318
+2026-09-29T09:53:50.002-05:00 WARN requestId=r-900113 component=customerProfileHttpPool leased=20 max=20 pending=61
+2026-09-29T09:54:00.000-05:00 INFO requestId=r-900114 route=/api/orders status=503 totalMs=3942 customerProfileMs=158 clientPoolWaitMs=3622
+2026-09-29T09:54:00.002-05:00 WARN requestId=r-900114 component=customerProfileHttpPool leased=20 max=20 pending=51
+2026-09-29T09:54:10.000-05:00 INFO requestId=r-900115 route=/api/orders status=502 totalMs=4681 customerProfileMs=89 clientPoolWaitMs=4435
+2026-09-29T09:54:10.002-05:00 WARN requestId=r-900115 component=customerProfileHttpPool leased=20 max=20 pending=63
+2026-09-29T09:54:20.000-05:00 INFO requestId=r-900116 route=/api/orders status=502 totalMs=4589 customerProfileMs=151 clientPoolWaitMs=4395
+2026-09-29T09:54:20.002-05:00 WARN requestId=r-900116 component=customerProfileHttpPool leased=20 max=20 pending=62
+2026-09-29T09:54:30.000-05:00 INFO requestId=r-900117 route=/api/orders status=503 totalMs=5018 customerProfileMs=133 clientPoolWaitMs=4689
+2026-09-29T09:54:30.002-05:00 WARN requestId=r-900117 component=customerProfileHttpPool leased=20 max=20 pending=66
+2026-09-29T09:54:40.000-05:00 INFO requestId=r-900118 route=/api/orders status=503 totalMs=4937 customerProfileMs=108 clientPoolWaitMs=4669
+2026-09-29T09:54:40.002-05:00 WARN requestId=r-900118 component=customerProfileHttpPool leased=20 max=20 pending=66
+2026-09-29T09:54:50.000-05:00 INFO requestId=r-900119 route=/api/orders status=503 totalMs=4563 customerProfileMs=128 clientPoolWaitMs=4342
+2026-09-29T09:54:50.002-05:00 WARN requestId=r-900119 component=customerProfileHttpPool leased=20 max=20 pending=62
+2026-09-29T09:55:00.000-05:00 INFO requestId=r-900120 route=/api/orders status=200 totalMs=4630 customerProfileMs=132 clientPoolWaitMs=4387
+2026-09-29T09:55:00.002-05:00 WARN requestId=r-900120 component=customerProfileHttpPool leased=20 max=20 pending=62
+2026-09-29T09:55:10.000-05:00 INFO requestId=r-900121 route=/api/orders status=502 totalMs=5029 customerProfileMs=108 clientPoolWaitMs=4856
+2026-09-29T09:55:10.002-05:00 WARN requestId=r-900121 component=customerProfileHttpPool leased=20 max=20 pending=69
+2026-09-29T09:55:20.000-05:00 INFO requestId=r-900122 route=/api/orders status=503 totalMs=5075 customerProfileMs=115 clientPoolWaitMs=4870
+2026-09-29T09:55:20.002-05:00 WARN requestId=r-900122 component=customerProfileHttpPool leased=20 max=20 pending=69
+2026-09-29T09:55:30.000-05:00 INFO requestId=r-900123 route=/api/orders status=200 totalMs=4937 customerProfileMs=104 clientPoolWaitMs=4748
+2026-09-29T09:55:30.002-05:00 WARN requestId=r-900123 component=customerProfileHttpPool leased=20 max=20 pending=67
+2026-09-29T09:55:40.000-05:00 INFO requestId=r-900124 route=/api/orders status=200 totalMs=4450 customerProfileMs=148 clientPoolWaitMs=4101
+2026-09-29T09:55:40.002-05:00 WARN requestId=r-900124 component=customerProfileHttpPool leased=20 max=20 pending=58
+2026-09-29T09:55:50.000-05:00 INFO requestId=r-900125 route=/api/orders status=200 totalMs=4788 customerProfileMs=153 clientPoolWaitMs=4519
+2026-09-29T09:55:50.002-05:00 WARN requestId=r-900125 component=customerProfileHttpPool leased=20 max=20 pending=64
+2026-09-29T09:56:00.000-05:00 INFO requestId=r-900126 route=/api/orders status=502 totalMs=5454 customerProfileMs=156 clientPoolWaitMs=5082
+2026-09-29T09:56:00.002-05:00 WARN requestId=r-900126 component=customerProfileHttpPool leased=20 max=20 pending=72
+2026-09-29T09:56:10.000-05:00 INFO requestId=r-900127 route=/api/orders status=200 totalMs=4660 customerProfileMs=92 clientPoolWaitMs=4407
+2026-09-29T09:56:10.002-05:00 WARN requestId=r-900127 component=customerProfileHttpPool leased=20 max=20 pending=62
+2026-09-29T09:56:20.000-05:00 INFO requestId=r-900128 route=/api/orders status=200 totalMs=5137 customerProfileMs=97 clientPoolWaitMs=4934
+2026-09-29T09:56:20.002-05:00 WARN requestId=r-900128 component=customerProfileHttpPool leased=20 max=20 pending=70
+2026-09-29T09:56:30.000-05:00 INFO requestId=r-900129 route=/api/orders status=200 totalMs=5443 customerProfileMs=131 clientPoolWaitMs=5207
+2026-09-29T09:56:30.002-05:00 WARN requestId=r-900129 component=customerProfileHttpPool leased=20 max=20 pending=74
+2026-09-29T09:56:40.000-05:00 INFO requestId=r-900130 route=/api/orders status=502 totalMs=5223 customerProfileMs=87 clientPoolWaitMs=4949
+2026-09-29T09:56:40.002-05:00 WARN requestId=r-900130 component=customerProfileHttpPool leased=20 max=20 pending=70
+2026-09-29T09:56:50.000-05:00 INFO requestId=r-900131 route=/api/orders status=503 totalMs=5553 customerProfileMs=168 clientPoolWaitMs=5255
+2026-09-29T09:56:50.002-05:00 WARN requestId=r-900131 component=customerProfileHttpPool leased=20 max=20 pending=75
+2026-09-29T09:57:00.000-05:00 INFO requestId=r-900132 route=/api/orders status=200 totalMs=5502 customerProfileMs=150 clientPoolWaitMs=5198
+2026-09-29T09:57:00.002-05:00 WARN requestId=r-900132 component=customerProfileHttpPool leased=20 max=20 pending=74
+2026-09-29T09:57:10.000-05:00 INFO requestId=r-900133 route=/api/orders status=200 totalMs=5042 customerProfileMs=133 clientPoolWaitMs=4832
+2026-09-29T09:57:10.002-05:00 WARN requestId=r-900133 component=customerProfileHttpPool leased=20 max=20 pending=69
+2026-09-29T09:57:20.000-05:00 INFO requestId=r-900134 route=/api/orders status=503 totalMs=5207 customerProfileMs=166 clientPoolWaitMs=4983
+2026-09-29T09:57:20.002-05:00 WARN requestId=r-900134 component=customerProfileHttpPool leased=20 max=20 pending=71
+2026-09-29T09:57:30.000-05:00 INFO requestId=r-900135 route=/api/orders status=503 totalMs=5355 customerProfileMs=105 clientPoolWaitMs=5043
+2026-09-29T09:57:30.002-05:00 WARN requestId=r-900135 component=customerProfileHttpPool leased=20 max=20 pending=72
+2026-09-29T09:57:40.000-05:00 INFO requestId=r-900136 route=/api/orders status=503 totalMs=5446 customerProfileMs=119 clientPoolWaitMs=5195
+2026-09-29T09:57:40.002-05:00 WARN requestId=r-900136 component=customerProfileHttpPool leased=20 max=20 pending=74
+2026-09-29T09:57:50.000-05:00 INFO requestId=r-900137 route=/api/orders status=502 totalMs=5551 customerProfileMs=151 clientPoolWaitMs=5355
+2026-09-29T09:57:50.002-05:00 WARN requestId=r-900137 component=customerProfileHttpPool leased=20 max=20 pending=76
+2026-09-29T09:58:00.000-05:00 INFO requestId=r-900138 route=/api/orders status=200 totalMs=5329 customerProfileMs=115 clientPoolWaitMs=4995
+2026-09-29T09:58:00.002-05:00 WARN requestId=r-900138 component=customerProfileHttpPool leased=20 max=20 pending=71
+2026-09-29T09:58:10.000-05:00 INFO requestId=r-900139 route=/api/orders status=502 totalMs=5034 customerProfileMs=111 clientPoolWaitMs=4867
+2026-09-29T09:58:10.002-05:00 WARN requestId=r-900139 component=customerProfileHttpPool leased=20 max=20 pending=69
+2026-09-29T09:58:20.000-05:00 INFO requestId=r-900140 route=/api/orders status=503 totalMs=5012 customerProfileMs=155 clientPoolWaitMs=4683
+2026-09-29T09:58:20.002-05:00 WARN requestId=r-900140 component=customerProfileHttpPool leased=20 max=20 pending=66
+2026-09-29T09:58:30.000-05:00 INFO requestId=r-900141 route=/api/orders status=200 totalMs=5316 customerProfileMs=98 clientPoolWaitMs=5157
+2026-09-29T09:58:30.002-05:00 WARN requestId=r-900141 component=customerProfileHttpPool leased=20 max=20 pending=73
+2026-09-29T09:58:40.000-05:00 INFO requestId=r-900142 route=/api/orders status=503 totalMs=5412 customerProfileMs=124 clientPoolWaitMs=5135
+2026-09-29T09:58:40.002-05:00 WARN requestId=r-900142 component=customerProfileHttpPool leased=20 max=20 pending=73
+2026-09-29T09:58:50.000-05:00 INFO requestId=r-900143 route=/api/orders status=200 totalMs=5165 customerProfileMs=101 clientPoolWaitMs=4981
+2026-09-29T09:58:50.002-05:00 WARN requestId=r-900143 component=customerProfileHttpPool leased=20 max=20 pending=71
+2026-09-29T09:59:00.000-05:00 INFO requestId=r-900144 route=/api/orders status=200 totalMs=5702 customerProfileMs=89 clientPoolWaitMs=5490
+2026-09-29T09:59:00.002-05:00 WARN requestId=r-900144 component=customerProfileHttpPool leased=20 max=20 pending=78
+2026-09-29T09:59:10.000-05:00 INFO requestId=r-900145 route=/api/orders status=200 totalMs=6237 customerProfileMs=144 clientPoolWaitMs=5913
+2026-09-29T09:59:10.002-05:00 WARN requestId=r-900145 component=customerProfileHttpPool leased=20 max=20 pending=84
+2026-09-29T09:59:20.000-05:00 INFO requestId=r-900146 route=/api/orders status=503 totalMs=6260 customerProfileMs=102 clientPoolWaitMs=5957
+2026-09-29T09:59:20.002-05:00 WARN requestId=r-900146 component=customerProfileHttpPool leased=20 max=20 pending=85
+2026-09-29T09:59:30.000-05:00 INFO requestId=r-900147 route=/api/orders status=200 totalMs=6288 customerProfileMs=140 clientPoolWaitMs=5972
+2026-09-29T09:59:30.002-05:00 WARN requestId=r-900147 component=customerProfileHttpPool leased=20 max=20 pending=85
+2026-09-29T09:59:40.000-05:00 INFO requestId=r-900148 route=/api/orders status=200 totalMs=6123 customerProfileMs=129 clientPoolWaitMs=5932
+2026-09-29T09:59:40.002-05:00 WARN requestId=r-900148 component=customerProfileHttpPool leased=20 max=20 pending=84
+2026-09-29T09:59:50.000-05:00 INFO requestId=r-900149 route=/api/orders status=502 totalMs=5983 customerProfileMs=124 clientPoolWaitMs=5742
+2026-09-29T09:59:50.002-05:00 WARN requestId=r-900149 component=customerProfileHttpPool leased=20 max=20 pending=82
+2026-09-29T10:00:00.000-05:00 INFO requestId=r-900150 route=/api/orders status=200 totalMs=6270 customerProfileMs=85 clientPoolWaitMs=6111
+2026-09-29T10:00:00.002-05:00 WARN requestId=r-900150 component=customerProfileHttpPool leased=20 max=20 pending=87
+2026-09-29T10:00:10.000-05:00 INFO requestId=r-900151 route=/api/orders status=200 totalMs=6383 customerProfileMs=121 clientPoolWaitMs=6046
+2026-09-29T10:00:10.002-05:00 WARN requestId=r-900151 component=customerProfileHttpPool leased=20 max=20 pending=86
+2026-09-29T10:00:20.000-05:00 INFO requestId=r-900152 route=/api/orders status=503 totalMs=6006 customerProfileMs=146 clientPoolWaitMs=5746
+2026-09-29T10:00:20.002-05:00 WARN requestId=r-900152 component=customerProfileHttpPool leased=20 max=20 pending=82
+2026-09-29T10:00:30.000-05:00 INFO requestId=r-900153 route=/api/orders status=200 totalMs=5396 customerProfileMs=114 clientPoolWaitMs=5194
+2026-09-29T10:00:30.002-05:00 WARN requestId=r-900153 component=customerProfileHttpPool leased=20 max=20 pending=74
+2026-09-29T10:00:40.000-05:00 INFO requestId=r-900154 route=/api/orders status=502 totalMs=6482 customerProfileMs=156 clientPoolWaitMs=6121
+2026-09-29T10:00:40.002-05:00 WARN requestId=r-900154 component=customerProfileHttpPool leased=20 max=20 pending=87
+2026-09-29T10:00:50.000-05:00 INFO requestId=r-900155 route=/api/orders status=503 totalMs=6057 customerProfileMs=133 clientPoolWaitMs=5724
+2026-09-29T10:00:50.002-05:00 WARN requestId=r-900155 component=customerProfileHttpPool leased=20 max=20 pending=81
+2026-09-29T10:01:00.000-05:00 INFO requestId=r-900156 route=/api/orders status=503 totalMs=6172 customerProfileMs=151 clientPoolWaitMs=5876
+2026-09-29T10:01:00.002-05:00 WARN requestId=r-900156 component=customerProfileHttpPool leased=20 max=20 pending=83
+2026-09-29T10:01:10.000-05:00 INFO requestId=r-900157 route=/api/orders status=502 totalMs=6035 customerProfileMs=93 clientPoolWaitMs=5739
+2026-09-29T10:01:10.002-05:00 WARN requestId=r-900157 component=customerProfileHttpPool leased=20 max=20 pending=81
+2026-09-29T10:01:20.000-05:00 INFO requestId=r-900158 route=/api/orders status=503 totalMs=6592 customerProfileMs=164 clientPoolWaitMs=6340
+2026-09-29T10:01:20.002-05:00 WARN requestId=r-900158 component=customerProfileHttpPool leased=20 max=20 pending=90
+2026-09-29T10:01:30.000-05:00 INFO requestId=r-900159 route=/api/orders status=502 totalMs=5945 customerProfileMs=87 clientPoolWaitMs=5771
+2026-09-29T10:01:30.002-05:00 WARN requestId=r-900159 component=customerProfileHttpPool leased=20 max=20 pending=82
+2026-09-29T10:01:40.000-05:00 INFO requestId=r-900160 route=/api/orders status=503 totalMs=6220 customerProfileMs=121 clientPoolWaitMs=6057
+2026-09-29T10:01:40.002-05:00 WARN requestId=r-900160 component=customerProfileHttpPool leased=20 max=20 pending=86
+2026-09-29T10:01:50.000-05:00 INFO requestId=r-900161 route=/api/orders status=502 totalMs=6084 customerProfileMs=96 clientPoolWaitMs=5861
+2026-09-29T10:01:50.002-05:00 WARN requestId=r-900161 component=customerProfileHttpPool leased=20 max=20 pending=83
+2026-09-29T10:02:00.000-05:00 INFO requestId=r-900162 route=/api/orders status=200 totalMs=6902 customerProfileMs=124 clientPoolWaitMs=6620
+2026-09-29T10:02:00.002-05:00 WARN requestId=r-900162 component=customerProfileHttpPool leased=20 max=20 pending=94
+2026-09-29T10:02:10.000-05:00 INFO requestId=r-900163 route=/api/orders status=200 totalMs=6014 customerProfileMs=127 clientPoolWaitMs=5810
+2026-09-29T10:02:10.002-05:00 WARN requestId=r-900163 component=customerProfileHttpPool leased=20 max=20 pending=83
+2026-09-29T10:02:20.000-05:00 INFO requestId=r-900164 route=/api/orders status=503 totalMs=6701 customerProfileMs=119 clientPoolWaitMs=6496
+2026-09-29T10:02:20.002-05:00 WARN requestId=r-900164 component=customerProfileHttpPool leased=20 max=20 pending=92
+2026-09-29T10:02:30.000-05:00 INFO requestId=r-900165 route=/api/orders status=200 totalMs=6709 customerProfileMs=117 clientPoolWaitMs=6521
+2026-09-29T10:02:30.002-05:00 WARN requestId=r-900165 component=customerProfileHttpPool leased=20 max=20 pending=93
+2026-09-29T10:02:40.000-05:00 INFO requestId=r-900166 route=/api/orders status=502 totalMs=6917 customerProfileMs=134 clientPoolWaitMs=6693
+2026-09-29T10:02:40.002-05:00 WARN requestId=r-900166 component=customerProfileHttpPool leased=20 max=20 pending=95
+2026-09-29T10:02:50.000-05:00 INFO requestId=r-900167 route=/api/orders status=200 totalMs=7090 customerProfileMs=97 clientPoolWaitMs=6900
+2026-09-29T10:02:50.002-05:00 WARN requestId=r-900167 component=customerProfileHttpPool leased=20 max=20 pending=98
+2026-09-29T10:03:00.000-05:00 INFO requestId=r-900168 route=/api/orders status=200 totalMs=6733 customerProfileMs=134 clientPoolWaitMs=6519
+2026-09-29T10:03:00.002-05:00 WARN requestId=r-900168 component=customerProfileHttpPool leased=20 max=20 pending=93
+2026-09-29T10:03:10.000-05:00 INFO requestId=r-900169 route=/api/orders status=200 totalMs=7245 customerProfileMs=90 clientPoolWaitMs=7051
+2026-09-29T10:03:10.002-05:00 WARN requestId=r-900169 component=customerProfileHttpPool leased=20 max=20 pending=100
+2026-09-29T10:03:20.000-05:00 INFO requestId=r-900170 route=/api/orders status=502 totalMs=6960 customerProfileMs=166 clientPoolWaitMs=6584
+2026-09-29T10:03:20.002-05:00 WARN requestId=r-900170 component=customerProfileHttpPool leased=20 max=20 pending=94
+2026-09-29T10:03:30.000-05:00 INFO requestId=r-900171 route=/api/orders status=200 totalMs=6725 customerProfileMs=99 clientPoolWaitMs=6503
+2026-09-29T10:03:30.002-05:00 WARN requestId=r-900171 component=customerProfileHttpPool leased=20 max=20 pending=92
+2026-09-29T10:03:40.000-05:00 INFO requestId=r-900172 route=/api/orders status=200 totalMs=6878 customerProfileMs=106 clientPoolWaitMs=6631
+2026-09-29T10:03:40.002-05:00 WARN requestId=r-900172 component=customerProfileHttpPool leased=20 max=20 pending=94
+2026-09-29T10:03:50.000-05:00 INFO requestId=r-900173 route=/api/orders status=200 totalMs=6501 customerProfileMs=86 clientPoolWaitMs=6199
+2026-09-29T10:03:50.002-05:00 WARN requestId=r-900173 component=customerProfileHttpPool leased=20 max=20 pending=88
+2026-09-29T10:04:00.000-05:00 INFO requestId=r-900174 route=/api/orders status=502 totalMs=6741 customerProfileMs=161 clientPoolWaitMs=6477
+2026-09-29T10:04:00.002-05:00 WARN requestId=r-900174 component=customerProfileHttpPool leased=20 max=20 pending=92
+2026-09-29T10:04:10.000-05:00 INFO requestId=r-900175 route=/api/orders status=200 totalMs=6667 customerProfileMs=148 clientPoolWaitMs=6393
+2026-09-29T10:04:10.002-05:00 WARN requestId=r-900175 component=customerProfileHttpPool leased=20 max=20 pending=91
+2026-09-29T10:04:20.000-05:00 INFO requestId=r-900176 route=/api/orders status=502 totalMs=6686 customerProfileMs=92 clientPoolWaitMs=6375
+2026-09-29T10:04:20.002-05:00 WARN requestId=r-900176 component=customerProfileHttpPool leased=20 max=20 pending=91
+2026-09-29T10:04:30.000-05:00 INFO requestId=r-900177 route=/api/orders status=200 totalMs=6776 customerProfileMs=98 clientPoolWaitMs=6557
+2026-09-29T10:04:30.002-05:00 WARN requestId=r-900177 component=customerProfileHttpPool leased=20 max=20 pending=93
+2026-09-29T10:04:40.000-05:00 INFO requestId=r-900178 route=/api/orders status=200 totalMs=7376 customerProfileMs=167 clientPoolWaitMs=7057
+2026-09-29T10:04:40.002-05:00 WARN requestId=r-900178 component=customerProfileHttpPool leased=20 max=20 pending=100
+2026-09-29T10:04:50.000-05:00 INFO requestId=r-900179 route=/api/orders status=502 totalMs=7357 customerProfileMs=87 clientPoolWaitMs=7166
+2026-09-29T10:04:50.002-05:00 WARN requestId=r-900179 component=customerProfileHttpPool leased=20 max=20 pending=102
+2026-09-29T10:05:00.000-05:00 INFO requestId=r-900180 route=/api/orders status=200 totalMs=7661 customerProfileMs=147 clientPoolWaitMs=7336
+2026-09-29T10:05:00.002-05:00 WARN requestId=r-900180 component=customerProfileHttpPool leased=20 max=20 pending=104
+2026-09-29T10:05:10.000-05:00 INFO requestId=r-900181 route=/api/orders status=503 totalMs=7877 customerProfileMs=109 clientPoolWaitMs=7646
+2026-09-29T10:05:10.002-05:00 WARN requestId=r-900181 component=customerProfileHttpPool leased=20 max=20 pending=109
+2026-09-29T10:05:20.000-05:00 INFO requestId=r-900182 route=/api/orders status=502 totalMs=7943 customerProfileMs=120 clientPoolWaitMs=7668
+2026-09-29T10:05:20.002-05:00 WARN requestId=r-900182 component=customerProfileHttpPool leased=20 max=20 pending=109
+2026-09-29T10:05:30.000-05:00 INFO requestId=r-900183 route=/api/orders status=502 totalMs=8010 customerProfileMs=118 clientPoolWaitMs=7689
+2026-09-29T10:05:30.002-05:00 WARN requestId=r-900183 component=customerProfileHttpPool leased=20 max=20 pending=109
+2026-09-29T10:05:40.000-05:00 INFO requestId=r-900184 route=/api/orders status=200 totalMs=7336 customerProfileMs=133 clientPoolWaitMs=7005
+2026-09-29T10:05:40.002-05:00 WARN requestId=r-900184 component=customerProfileHttpPool leased=20 max=20 pending=100
+2026-09-29T10:05:50.000-05:00 INFO requestId=r-900185 route=/api/orders status=502 totalMs=7534 customerProfileMs=164 clientPoolWaitMs=7162
+2026-09-29T10:05:50.002-05:00 WARN requestId=r-900185 component=customerProfileHttpPool leased=20 max=20 pending=102
+2026-09-29T10:06:00.000-05:00 INFO requestId=r-900186 route=/api/orders status=200 totalMs=7409 customerProfileMs=134 clientPoolWaitMs=7108
+2026-09-29T10:06:00.002-05:00 WARN requestId=r-900186 component=customerProfileHttpPool leased=20 max=20 pending=101
+2026-09-29T10:06:10.000-05:00 INFO requestId=r-900187 route=/api/orders status=503 totalMs=7517 customerProfileMs=104 clientPoolWaitMs=7345
+2026-09-29T10:06:10.002-05:00 WARN requestId=r-900187 component=customerProfileHttpPool leased=20 max=20 pending=104
+2026-09-29T10:06:20.000-05:00 INFO requestId=r-900188 route=/api/orders status=502 totalMs=7185 customerProfileMs=151 clientPoolWaitMs=6949
+2026-09-29T10:06:20.002-05:00 WARN requestId=r-900188 component=customerProfileHttpPool leased=20 max=20 pending=99
+2026-09-29T10:06:30.000-05:00 INFO requestId=r-900189 route=/api/orders status=200 totalMs=7254 customerProfileMs=110 clientPoolWaitMs=7079
+2026-09-29T10:06:30.002-05:00 WARN requestId=r-900189 component=customerProfileHttpPool leased=20 max=20 pending=101
+2026-09-29T10:06:40.000-05:00 INFO requestId=r-900190 route=/api/orders status=200 totalMs=8033 customerProfileMs=158 clientPoolWaitMs=7701
+2026-09-29T10:06:40.002-05:00 WARN requestId=r-900190 component=customerProfileHttpPool leased=20 max=20 pending=110
+2026-09-29T10:06:50.000-05:00 INFO requestId=r-900191 route=/api/orders status=502 totalMs=7832 customerProfileMs=160 clientPoolWaitMs=7477
+2026-09-29T10:06:50.002-05:00 WARN requestId=r-900191 component=customerProfileHttpPool leased=20 max=20 pending=106
+2026-09-29T10:07:00.000-05:00 INFO requestId=r-900192 route=/api/orders status=200 totalMs=7573 customerProfileMs=86 clientPoolWaitMs=7427
+2026-09-29T10:07:00.002-05:00 WARN requestId=r-900192 component=customerProfileHttpPool leased=20 max=20 pending=106
+2026-09-29T10:07:10.000-05:00 INFO requestId=r-900193 route=/api/orders status=503 totalMs=7470 customerProfileMs=166 clientPoolWaitMs=7170
+2026-09-29T10:07:10.002-05:00 WARN requestId=r-900193 component=customerProfileHttpPool leased=20 max=20 pending=102
+2026-09-29T10:07:20.000-05:00 INFO requestId=r-900194 route=/api/orders status=200 totalMs=7858 customerProfileMs=163 clientPoolWaitMs=7637
+2026-09-29T10:07:20.002-05:00 WARN requestId=r-900194 component=customerProfileHttpPool leased=20 max=20 pending=109
+2026-09-29T10:07:30.000-05:00 INFO requestId=r-900195 route=/api/orders status=200 totalMs=7740 customerProfileMs=94 clientPoolWaitMs=7582
+2026-09-29T10:07:30.002-05:00 WARN requestId=r-900195 component=customerProfileHttpPool leased=20 max=20 pending=108
+2026-09-29T10:07:40.000-05:00 INFO requestId=r-900196 route=/api/orders status=502 totalMs=8562 customerProfileMs=114 clientPoolWaitMs=8274
+2026-09-29T10:07:40.002-05:00 WARN requestId=r-900196 component=customerProfileHttpPool leased=20 max=20 pending=118
+2026-09-29T10:07:50.000-05:00 INFO requestId=r-900197 route=/api/orders status=200 totalMs=7938 customerProfileMs=157 clientPoolWaitMs=7599
+2026-09-29T10:07:50.002-05:00 WARN requestId=r-900197 component=customerProfileHttpPool leased=20 max=20 pending=108
+2026-09-29T10:08:00.000-05:00 INFO requestId=r-900198 route=/api/orders status=503 totalMs=8777 customerProfileMs=98 clientPoolWaitMs=8460
+2026-09-29T10:08:00.002-05:00 WARN requestId=r-900198 component=customerProfileHttpPool leased=20 max=20 pending=120
+2026-09-29T10:08:10.000-05:00 INFO requestId=r-900199 route=/api/orders status=200 totalMs=7945 customerProfileMs=98 clientPoolWaitMs=7667
+2026-09-29T10:08:10.002-05:00 WARN requestId=r-900199 component=customerProfileHttpPool leased=20 max=20 pending=109
+2026-09-29T10:08:20.000-05:00 INFO requestId=r-900200 route=/api/orders status=200 totalMs=8389 customerProfileMs=149 clientPoolWaitMs=8064
+2026-09-29T10:08:20.002-05:00 WARN requestId=r-900200 component=customerProfileHttpPool leased=20 max=20 pending=115
+2026-09-29T10:08:30.000-05:00 INFO requestId=r-900201 route=/api/orders status=200 totalMs=8462 customerProfileMs=141 clientPoolWaitMs=8141
+2026-09-29T10:08:30.002-05:00 WARN requestId=r-900201 component=customerProfileHttpPool leased=20 max=20 pending=116
+2026-09-29T10:08:40.000-05:00 INFO requestId=r-900202 route=/api/orders status=200 totalMs=8592 customerProfileMs=132 clientPoolWaitMs=8310
+2026-09-29T10:08:40.002-05:00 WARN requestId=r-900202 component=customerProfileHttpPool leased=20 max=20 pending=118
+2026-09-29T10:08:50.000-05:00 INFO requestId=r-900203 route=/api/orders status=200 totalMs=8261 customerProfileMs=162 clientPoolWaitMs=8005
+2026-09-29T10:08:50.002-05:00 WARN requestId=r-900203 component=customerProfileHttpPool leased=20 max=20 pending=114
+2026-09-29T10:09:00.000-05:00 INFO requestId=r-900204 route=/api/orders status=503 totalMs=8389 customerProfileMs=155 clientPoolWaitMs=8080
+2026-09-29T10:09:00.002-05:00 WARN requestId=r-900204 component=customerProfileHttpPool leased=20 max=20 pending=115
+2026-09-29T10:09:10.000-05:00 INFO requestId=r-900205 route=/api/orders status=200 totalMs=7953 customerProfileMs=85 clientPoolWaitMs=7676
+2026-09-29T10:09:10.002-05:00 WARN requestId=r-900205 component=customerProfileHttpPool leased=20 max=20 pending=109
+2026-09-29T10:09:20.000-05:00 INFO requestId=r-900206 route=/api/orders status=200 totalMs=8197 customerProfileMs=151 clientPoolWaitMs=7929
+2026-09-29T10:09:20.002-05:00 WARN requestId=r-900206 component=customerProfileHttpPool leased=20 max=20 pending=113
+2026-09-29T10:09:30.000-05:00 INFO requestId=r-900207 route=/api/orders status=503 totalMs=8322 customerProfileMs=123 clientPoolWaitMs=8154
+2026-09-29T10:09:30.002-05:00 WARN requestId=r-900207 component=customerProfileHttpPool leased=20 max=20 pending=116
+2026-09-29T10:09:40.000-05:00 INFO requestId=r-900208 route=/api/orders status=200 totalMs=9134 customerProfileMs=155 clientPoolWaitMs=8793
+2026-09-29T10:09:40.002-05:00 WARN requestId=r-900208 component=customerProfileHttpPool leased=20 max=20 pending=125
+2026-09-29T10:09:50.000-05:00 INFO requestId=r-900209 route=/api/orders status=200 totalMs=8046 customerProfileMs=97 clientPoolWaitMs=7870
+2026-09-29T10:09:50.002-05:00 WARN requestId=r-900209 component=customerProfileHttpPool leased=20 max=20 pending=112
+2026-09-29T10:10:00.000-05:00 INFO requestId=r-900210 route=/api/orders status=200 totalMs=8812 customerProfileMs=118 clientPoolWaitMs=8591
+2026-09-29T10:10:00.002-05:00 WARN requestId=r-900210 component=customerProfileHttpPool leased=20 max=20 pending=122
+2026-09-29T10:10:10.000-05:00 INFO requestId=r-900211 route=/api/orders status=503 totalMs=8803 customerProfileMs=117 clientPoolWaitMs=8501
+2026-09-29T10:10:10.002-05:00 WARN requestId=r-900211 component=customerProfileHttpPool leased=20 max=20 pending=121
+2026-09-29T10:10:20.000-05:00 INFO requestId=r-900212 route=/api/orders status=200 totalMs=8775 customerProfileMs=94 clientPoolWaitMs=8597
+2026-09-29T10:10:20.002-05:00 WARN requestId=r-900212 component=customerProfileHttpPool leased=20 max=20 pending=122
+2026-09-29T10:10:30.000-05:00 INFO requestId=r-900213 route=/api/orders status=200 totalMs=8449 customerProfileMs=158 clientPoolWaitMs=8175
+2026-09-29T10:10:30.002-05:00 WARN requestId=r-900213 component=customerProfileHttpPool leased=20 max=20 pending=116
+2026-09-29T10:10:40.000-05:00 INFO requestId=r-900214 route=/api/orders status=502 totalMs=9090 customerProfileMs=158 clientPoolWaitMs=8807
+2026-09-29T10:10:40.002-05:00 WARN requestId=r-900214 component=customerProfileHttpPool leased=20 max=20 pending=125
+2026-09-29T10:10:50.000-05:00 INFO requestId=r-900215 route=/api/orders status=200 totalMs=9136 customerProfileMs=140 clientPoolWaitMs=8926
+2026-09-29T10:10:50.002-05:00 WARN requestId=r-900215 component=customerProfileHttpPool leased=20 max=20 pending=127
+2026-09-29T10:11:00.000-05:00 INFO requestId=r-900216 route=/api/orders status=200 totalMs=8512 customerProfileMs=168 clientPoolWaitMs=8143
+2026-09-29T10:11:00.002-05:00 WARN requestId=r-900216 component=customerProfileHttpPool leased=20 max=20 pending=116
+2026-09-29T10:11:10.000-05:00 INFO requestId=r-900217 route=/api/orders status=200 totalMs=9002 customerProfileMs=91 clientPoolWaitMs=8790
+2026-09-29T10:11:10.002-05:00 WARN requestId=r-900217 component=customerProfileHttpPool leased=20 max=20 pending=125
+2026-09-29T10:11:20.000-05:00 INFO requestId=r-900218 route=/api/orders status=502 totalMs=8755 customerProfileMs=157 clientPoolWaitMs=8519
+2026-09-29T10:11:20.002-05:00 WARN requestId=r-900218 component=customerProfileHttpPool leased=20 max=20 pending=121
+2026-09-29T10:11:30.000-05:00 INFO requestId=r-900219 route=/api/orders status=200 totalMs=9322 customerProfileMs=135 clientPoolWaitMs=9000
+2026-09-29T10:11:30.002-05:00 WARN requestId=r-900219 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:11:40.000-05:00 INFO requestId=r-900220 route=/api/orders status=503 totalMs=8933 customerProfileMs=96 clientPoolWaitMs=8760
+2026-09-29T10:11:40.002-05:00 WARN requestId=r-900220 component=customerProfileHttpPool leased=20 max=20 pending=125
+2026-09-29T10:11:50.000-05:00 INFO requestId=r-900221 route=/api/orders status=200 totalMs=8702 customerProfileMs=128 clientPoolWaitMs=8522
+2026-09-29T10:11:50.002-05:00 WARN requestId=r-900221 component=customerProfileHttpPool leased=20 max=20 pending=121
+2026-09-29T10:12:00.000-05:00 INFO requestId=r-900222 route=/api/orders status=503 totalMs=9291 customerProfileMs=136 clientPoolWaitMs=8937
+2026-09-29T10:12:00.002-05:00 WARN requestId=r-900222 component=customerProfileHttpPool leased=20 max=20 pending=127
+2026-09-29T10:12:10.000-05:00 INFO requestId=r-900223 route=/api/orders status=200 totalMs=9266 customerProfileMs=102 clientPoolWaitMs=9000
+2026-09-29T10:12:10.002-05:00 WARN requestId=r-900223 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:12:20.000-05:00 INFO requestId=r-900224 route=/api/orders status=502 totalMs=9270 customerProfileMs=168 clientPoolWaitMs=9000
+2026-09-29T10:12:20.002-05:00 WARN requestId=r-900224 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:12:30.000-05:00 INFO requestId=r-900225 route=/api/orders status=502 totalMs=9187 customerProfileMs=119 clientPoolWaitMs=9000
+2026-09-29T10:12:30.002-05:00 WARN requestId=r-900225 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:12:40.000-05:00 INFO requestId=r-900226 route=/api/orders status=503 totalMs=9267 customerProfileMs=139 clientPoolWaitMs=9000
+2026-09-29T10:12:40.002-05:00 WARN requestId=r-900226 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:12:50.000-05:00 INFO requestId=r-900227 route=/api/orders status=200 totalMs=8933 customerProfileMs=168 clientPoolWaitMs=8682
+2026-09-29T10:12:50.002-05:00 WARN requestId=r-900227 component=customerProfileHttpPool leased=20 max=20 pending=124
+2026-09-29T10:13:00.000-05:00 INFO requestId=r-900228 route=/api/orders status=200 totalMs=9315 customerProfileMs=163 clientPoolWaitMs=9000
+2026-09-29T10:13:00.002-05:00 WARN requestId=r-900228 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:13:10.000-05:00 INFO requestId=r-900229 route=/api/orders status=200 totalMs=9193 customerProfileMs=114 clientPoolWaitMs=9000
+2026-09-29T10:13:10.002-05:00 WARN requestId=r-900229 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:13:20.000-05:00 INFO requestId=r-900230 route=/api/orders status=502 totalMs=9096 customerProfileMs=99 clientPoolWaitMs=8884
+2026-09-29T10:13:20.002-05:00 WARN requestId=r-900230 component=customerProfileHttpPool leased=20 max=20 pending=126
+2026-09-29T10:13:30.000-05:00 INFO requestId=r-900231 route=/api/orders status=503 totalMs=9173 customerProfileMs=128 clientPoolWaitMs=9000
+2026-09-29T10:13:30.002-05:00 WARN requestId=r-900231 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:13:40.000-05:00 INFO requestId=r-900232 route=/api/orders status=503 totalMs=9291 customerProfileMs=111 clientPoolWaitMs=9000
+2026-09-29T10:13:40.002-05:00 WARN requestId=r-900232 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:13:50.000-05:00 INFO requestId=r-900233 route=/api/orders status=200 totalMs=9375 customerProfileMs=164 clientPoolWaitMs=9000
+2026-09-29T10:13:50.002-05:00 WARN requestId=r-900233 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:14:00.000-05:00 INFO requestId=r-900234 route=/api/orders status=200 totalMs=9307 customerProfileMs=133 clientPoolWaitMs=9000
+2026-09-29T10:14:00.002-05:00 WARN requestId=r-900234 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:14:10.000-05:00 INFO requestId=r-900235 route=/api/orders status=502 totalMs=9335 customerProfileMs=117 clientPoolWaitMs=9000
+2026-09-29T10:14:10.002-05:00 WARN requestId=r-900235 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:14:20.000-05:00 INFO requestId=r-900236 route=/api/orders status=200 totalMs=9161 customerProfileMs=119 clientPoolWaitMs=9000
+2026-09-29T10:14:20.002-05:00 WARN requestId=r-900236 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:14:30.000-05:00 INFO requestId=r-900237 route=/api/orders status=200 totalMs=9342 customerProfileMs=134 clientPoolWaitMs=9000
+2026-09-29T10:14:30.002-05:00 WARN requestId=r-900237 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:14:40.000-05:00 INFO requestId=r-900238 route=/api/orders status=503 totalMs=9197 customerProfileMs=98 clientPoolWaitMs=9000
+2026-09-29T10:14:40.002-05:00 WARN requestId=r-900238 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:14:50.000-05:00 INFO requestId=r-900239 route=/api/orders status=200 totalMs=9314 customerProfileMs=150 clientPoolWaitMs=9000
+2026-09-29T10:14:50.002-05:00 WARN requestId=r-900239 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:15:00.000-05:00 INFO requestId=r-900240 route=/api/orders status=503 totalMs=9336 customerProfileMs=153 clientPoolWaitMs=9000
+2026-09-29T10:15:00.002-05:00 WARN requestId=r-900240 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:15:10.000-05:00 INFO requestId=r-900241 route=/api/orders status=200 totalMs=9208 customerProfileMs=90 clientPoolWaitMs=9000
+2026-09-29T10:15:10.002-05:00 WARN requestId=r-900241 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:15:20.000-05:00 INFO requestId=r-900242 route=/api/orders status=200 totalMs=9191 customerProfileMs=147 clientPoolWaitMs=9000
+2026-09-29T10:15:20.002-05:00 WARN requestId=r-900242 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:15:30.000-05:00 INFO requestId=r-900243 route=/api/orders status=200 totalMs=9230 customerProfileMs=130 clientPoolWaitMs=9000
+2026-09-29T10:15:30.002-05:00 WARN requestId=r-900243 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:15:40.000-05:00 INFO requestId=r-900244 route=/api/orders status=200 totalMs=9259 customerProfileMs=120 clientPoolWaitMs=9000
+2026-09-29T10:15:40.002-05:00 WARN requestId=r-900244 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:15:50.000-05:00 INFO requestId=r-900245 route=/api/orders status=503 totalMs=9296 customerProfileMs=156 clientPoolWaitMs=9000
+2026-09-29T10:15:50.002-05:00 WARN requestId=r-900245 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:16:00.000-05:00 INFO requestId=r-900246 route=/api/orders status=200 totalMs=9309 customerProfileMs=96 clientPoolWaitMs=9000
+2026-09-29T10:16:00.002-05:00 WARN requestId=r-900246 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:16:10.000-05:00 INFO requestId=r-900247 route=/api/orders status=502 totalMs=9314 customerProfileMs=165 clientPoolWaitMs=9000
+2026-09-29T10:16:10.002-05:00 WARN requestId=r-900247 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:16:20.000-05:00 INFO requestId=r-900248 route=/api/orders status=502 totalMs=9254 customerProfileMs=162 clientPoolWaitMs=9000
+2026-09-29T10:16:20.002-05:00 WARN requestId=r-900248 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:16:30.000-05:00 INFO requestId=r-900249 route=/api/orders status=200 totalMs=9250 customerProfileMs=159 clientPoolWaitMs=9000
+2026-09-29T10:16:30.002-05:00 WARN requestId=r-900249 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:16:40.000-05:00 INFO requestId=r-900250 route=/api/orders status=200 totalMs=9274 customerProfileMs=124 clientPoolWaitMs=9000
+2026-09-29T10:16:40.002-05:00 WARN requestId=r-900250 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:16:50.000-05:00 INFO requestId=r-900251 route=/api/orders status=200 totalMs=9289 customerProfileMs=168 clientPoolWaitMs=9000
+2026-09-29T10:16:50.002-05:00 WARN requestId=r-900251 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:17:00.000-05:00 INFO requestId=r-900252 route=/api/orders status=200 totalMs=9226 customerProfileMs=156 clientPoolWaitMs=9000
+2026-09-29T10:17:00.002-05:00 WARN requestId=r-900252 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:17:10.000-05:00 INFO requestId=r-900253 route=/api/orders status=200 totalMs=9246 customerProfileMs=125 clientPoolWaitMs=9000
+2026-09-29T10:17:10.002-05:00 WARN requestId=r-900253 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:17:20.000-05:00 INFO requestId=r-900254 route=/api/orders status=503 totalMs=9215 customerProfileMs=137 clientPoolWaitMs=9000
+2026-09-29T10:17:20.002-05:00 WARN requestId=r-900254 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:17:30.000-05:00 INFO requestId=r-900255 route=/api/orders status=503 totalMs=9293 customerProfileMs=98 clientPoolWaitMs=9000
+2026-09-29T10:17:30.002-05:00 WARN requestId=r-900255 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:17:40.000-05:00 INFO requestId=r-900256 route=/api/orders status=200 totalMs=9262 customerProfileMs=163 clientPoolWaitMs=9000
+2026-09-29T10:17:40.002-05:00 WARN requestId=r-900256 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:17:50.000-05:00 INFO requestId=r-900257 route=/api/orders status=200 totalMs=9292 customerProfileMs=130 clientPoolWaitMs=9000
+2026-09-29T10:17:50.002-05:00 WARN requestId=r-900257 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:18:00.000-05:00 INFO requestId=r-900258 route=/api/orders status=200 totalMs=9284 customerProfileMs=149 clientPoolWaitMs=9000
+2026-09-29T10:18:00.002-05:00 WARN requestId=r-900258 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:18:10.000-05:00 INFO requestId=r-900259 route=/api/orders status=200 totalMs=9215 customerProfileMs=134 clientPoolWaitMs=9000
+2026-09-29T10:18:10.002-05:00 WARN requestId=r-900259 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:18:20.000-05:00 INFO requestId=r-900260 route=/api/orders status=502 totalMs=9222 customerProfileMs=113 clientPoolWaitMs=9000
+2026-09-29T10:18:20.002-05:00 WARN requestId=r-900260 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:18:30.000-05:00 INFO requestId=r-900261 route=/api/orders status=200 totalMs=9169 customerProfileMs=113 clientPoolWaitMs=9000
+2026-09-29T10:18:30.002-05:00 WARN requestId=r-900261 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:18:40.000-05:00 INFO requestId=r-900262 route=/api/orders status=200 totalMs=9298 customerProfileMs=141 clientPoolWaitMs=9000
+2026-09-29T10:18:40.002-05:00 WARN requestId=r-900262 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:18:50.000-05:00 INFO requestId=r-900263 route=/api/orders status=200 totalMs=9334 customerProfileMs=139 clientPoolWaitMs=9000
+2026-09-29T10:18:50.002-05:00 WARN requestId=r-900263 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:19:00.000-05:00 INFO requestId=r-900264 route=/api/orders status=200 totalMs=9311 customerProfileMs=125 clientPoolWaitMs=9000
+2026-09-29T10:19:00.002-05:00 WARN requestId=r-900264 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:19:10.000-05:00 INFO requestId=r-900265 route=/api/orders status=200 totalMs=9373 customerProfileMs=153 clientPoolWaitMs=9000
+2026-09-29T10:19:10.002-05:00 WARN requestId=r-900265 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:19:20.000-05:00 INFO requestId=r-900266 route=/api/orders status=200 totalMs=9201 customerProfileMs=151 clientPoolWaitMs=9000
+2026-09-29T10:19:20.002-05:00 WARN requestId=r-900266 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:19:30.000-05:00 INFO requestId=r-900267 route=/api/orders status=502 totalMs=9333 customerProfileMs=151 clientPoolWaitMs=9000
+2026-09-29T10:19:30.002-05:00 WARN requestId=r-900267 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:19:40.000-05:00 INFO requestId=r-900268 route=/api/orders status=503 totalMs=9292 customerProfileMs=151 clientPoolWaitMs=9000
+2026-09-29T10:19:40.002-05:00 WARN requestId=r-900268 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:19:50.000-05:00 INFO requestId=r-900269 route=/api/orders status=503 totalMs=9317 customerProfileMs=121 clientPoolWaitMs=9000
+2026-09-29T10:19:50.002-05:00 WARN requestId=r-900269 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:20:00.000-05:00 INFO requestId=r-900270 route=/api/orders status=200 totalMs=9356 customerProfileMs=151 clientPoolWaitMs=9000
+2026-09-29T10:20:00.002-05:00 WARN requestId=r-900270 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:20:10.000-05:00 INFO requestId=r-900271 route=/api/orders status=502 totalMs=9236 customerProfileMs=96 clientPoolWaitMs=9000
+2026-09-29T10:20:10.002-05:00 WARN requestId=r-900271 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:20:20.000-05:00 INFO requestId=r-900272 route=/api/orders status=503 totalMs=9317 customerProfileMs=126 clientPoolWaitMs=9000
+2026-09-29T10:20:20.002-05:00 WARN requestId=r-900272 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:20:30.000-05:00 INFO requestId=r-900273 route=/api/orders status=502 totalMs=9214 customerProfileMs=143 clientPoolWaitMs=9000
+2026-09-29T10:20:30.002-05:00 WARN requestId=r-900273 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:20:40.000-05:00 INFO requestId=r-900274 route=/api/orders status=200 totalMs=9160 customerProfileMs=99 clientPoolWaitMs=9000
+2026-09-29T10:20:40.002-05:00 WARN requestId=r-900274 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:20:50.000-05:00 INFO requestId=r-900275 route=/api/orders status=200 totalMs=9214 customerProfileMs=134 clientPoolWaitMs=9000
+2026-09-29T10:20:50.002-05:00 WARN requestId=r-900275 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:21:00.000-05:00 INFO requestId=r-900276 route=/api/orders status=502 totalMs=9280 customerProfileMs=155 clientPoolWaitMs=9000
+2026-09-29T10:21:00.002-05:00 WARN requestId=r-900276 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:21:10.000-05:00 INFO requestId=r-900277 route=/api/orders status=502 totalMs=9254 customerProfileMs=169 clientPoolWaitMs=9000
+2026-09-29T10:21:10.002-05:00 WARN requestId=r-900277 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:21:20.000-05:00 INFO requestId=r-900278 route=/api/orders status=503 totalMs=9251 customerProfileMs=138 clientPoolWaitMs=9000
+2026-09-29T10:21:20.002-05:00 WARN requestId=r-900278 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:21:30.000-05:00 INFO requestId=r-900279 route=/api/orders status=200 totalMs=9199 customerProfileMs=108 clientPoolWaitMs=9000
+2026-09-29T10:21:30.002-05:00 WARN requestId=r-900279 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:21:40.000-05:00 INFO requestId=r-900280 route=/api/orders status=503 totalMs=9331 customerProfileMs=164 clientPoolWaitMs=9000
+2026-09-29T10:21:40.002-05:00 WARN requestId=r-900280 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:21:50.000-05:00 INFO requestId=r-900281 route=/api/orders status=503 totalMs=9241 customerProfileMs=85 clientPoolWaitMs=9000
+2026-09-29T10:21:50.002-05:00 WARN requestId=r-900281 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:22:00.000-05:00 INFO requestId=r-900282 route=/api/orders status=200 totalMs=9182 customerProfileMs=141 clientPoolWaitMs=9000
+2026-09-29T10:22:00.002-05:00 WARN requestId=r-900282 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:22:10.000-05:00 INFO requestId=r-900283 route=/api/orders status=200 totalMs=9337 customerProfileMs=155 clientPoolWaitMs=9000
+2026-09-29T10:22:10.002-05:00 WARN requestId=r-900283 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:22:20.000-05:00 INFO requestId=r-900284 route=/api/orders status=503 totalMs=9140 customerProfileMs=91 clientPoolWaitMs=9000
+2026-09-29T10:22:20.002-05:00 WARN requestId=r-900284 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:22:30.000-05:00 INFO requestId=r-900285 route=/api/orders status=200 totalMs=9205 customerProfileMs=89 clientPoolWaitMs=9000
+2026-09-29T10:22:30.002-05:00 WARN requestId=r-900285 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:22:40.000-05:00 INFO requestId=r-900286 route=/api/orders status=502 totalMs=9177 customerProfileMs=96 clientPoolWaitMs=9000
+2026-09-29T10:22:40.002-05:00 WARN requestId=r-900286 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:22:50.000-05:00 INFO requestId=r-900287 route=/api/orders status=200 totalMs=9248 customerProfileMs=163 clientPoolWaitMs=9000
+2026-09-29T10:22:50.002-05:00 WARN requestId=r-900287 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:23:00.000-05:00 INFO requestId=r-900288 route=/api/orders status=200 totalMs=9222 customerProfileMs=159 clientPoolWaitMs=9000
+2026-09-29T10:23:00.002-05:00 WARN requestId=r-900288 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:23:10.000-05:00 INFO requestId=r-900289 route=/api/orders status=200 totalMs=9183 customerProfileMs=126 clientPoolWaitMs=9000
+2026-09-29T10:23:10.002-05:00 WARN requestId=r-900289 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:23:20.000-05:00 INFO requestId=r-900290 route=/api/orders status=502 totalMs=9226 customerProfileMs=155 clientPoolWaitMs=9000
+2026-09-29T10:23:20.002-05:00 WARN requestId=r-900290 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:23:30.000-05:00 INFO requestId=r-900291 route=/api/orders status=502 totalMs=9345 customerProfileMs=127 clientPoolWaitMs=9000
+2026-09-29T10:23:30.002-05:00 WARN requestId=r-900291 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:23:40.000-05:00 INFO requestId=r-900292 route=/api/orders status=502 totalMs=9326 customerProfileMs=163 clientPoolWaitMs=9000
+2026-09-29T10:23:40.002-05:00 WARN requestId=r-900292 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:23:50.000-05:00 INFO requestId=r-900293 route=/api/orders status=200 totalMs=9242 customerProfileMs=121 clientPoolWaitMs=9000
+2026-09-29T10:23:50.002-05:00 WARN requestId=r-900293 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:24:00.000-05:00 INFO requestId=r-900294 route=/api/orders status=200 totalMs=9282 customerProfileMs=152 clientPoolWaitMs=9000
+2026-09-29T10:24:00.002-05:00 WARN requestId=r-900294 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:24:10.000-05:00 INFO requestId=r-900295 route=/api/orders status=200 totalMs=9364 customerProfileMs=163 clientPoolWaitMs=9000
+2026-09-29T10:24:10.002-05:00 WARN requestId=r-900295 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:24:20.000-05:00 INFO requestId=r-900296 route=/api/orders status=200 totalMs=9247 customerProfileMs=148 clientPoolWaitMs=9000
+2026-09-29T10:24:20.002-05:00 WARN requestId=r-900296 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:24:30.000-05:00 INFO requestId=r-900297 route=/api/orders status=503 totalMs=9309 customerProfileMs=109 clientPoolWaitMs=9000
+2026-09-29T10:24:30.002-05:00 WARN requestId=r-900297 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:24:40.000-05:00 INFO requestId=r-900298 route=/api/orders status=503 totalMs=9240 customerProfileMs=111 clientPoolWaitMs=9000
+2026-09-29T10:24:40.002-05:00 WARN requestId=r-900298 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:24:50.000-05:00 INFO requestId=r-900299 route=/api/orders status=502 totalMs=9382 customerProfileMs=166 clientPoolWaitMs=9000
+2026-09-29T10:24:50.002-05:00 WARN requestId=r-900299 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:25:00.000-05:00 INFO requestId=r-900300 route=/api/orders status=503 totalMs=9158 customerProfileMs=117 clientPoolWaitMs=9000
+2026-09-29T10:25:00.002-05:00 WARN requestId=r-900300 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:25:10.000-05:00 INFO requestId=r-900301 route=/api/orders status=502 totalMs=9211 customerProfileMs=127 clientPoolWaitMs=9000
+2026-09-29T10:25:10.002-05:00 WARN requestId=r-900301 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:25:20.000-05:00 INFO requestId=r-900302 route=/api/orders status=200 totalMs=9289 customerProfileMs=127 clientPoolWaitMs=9000
+2026-09-29T10:25:20.002-05:00 WARN requestId=r-900302 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:25:30.000-05:00 INFO requestId=r-900303 route=/api/orders status=200 totalMs=9289 customerProfileMs=89 clientPoolWaitMs=9000
+2026-09-29T10:25:30.002-05:00 WARN requestId=r-900303 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:25:40.000-05:00 INFO requestId=r-900304 route=/api/orders status=200 totalMs=9298 customerProfileMs=153 clientPoolWaitMs=9000
+2026-09-29T10:25:40.002-05:00 WARN requestId=r-900304 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:25:50.000-05:00 INFO requestId=r-900305 route=/api/orders status=200 totalMs=9364 customerProfileMs=151 clientPoolWaitMs=9000
+2026-09-29T10:25:50.002-05:00 WARN requestId=r-900305 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:26:00.000-05:00 INFO requestId=r-900306 route=/api/orders status=503 totalMs=9286 customerProfileMs=156 clientPoolWaitMs=9000
+2026-09-29T10:26:00.002-05:00 WARN requestId=r-900306 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:26:10.000-05:00 INFO requestId=r-900307 route=/api/orders status=200 totalMs=9230 customerProfileMs=104 clientPoolWaitMs=9000
+2026-09-29T10:26:10.002-05:00 WARN requestId=r-900307 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:26:20.000-05:00 INFO requestId=r-900308 route=/api/orders status=200 totalMs=9351 customerProfileMs=165 clientPoolWaitMs=9000
+2026-09-29T10:26:20.002-05:00 WARN requestId=r-900308 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:26:30.000-05:00 INFO requestId=r-900309 route=/api/orders status=200 totalMs=9252 customerProfileMs=134 clientPoolWaitMs=9000
+2026-09-29T10:26:30.002-05:00 WARN requestId=r-900309 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:26:40.000-05:00 INFO requestId=r-900310 route=/api/orders status=503 totalMs=9189 customerProfileMs=89 clientPoolWaitMs=9000
+2026-09-29T10:26:40.002-05:00 WARN requestId=r-900310 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:26:50.000-05:00 INFO requestId=r-900311 route=/api/orders status=503 totalMs=9226 customerProfileMs=142 clientPoolWaitMs=9000
+2026-09-29T10:26:50.002-05:00 WARN requestId=r-900311 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:27:00.000-05:00 INFO requestId=r-900312 route=/api/orders status=200 totalMs=9195 customerProfileMs=132 clientPoolWaitMs=9000
+2026-09-29T10:27:00.002-05:00 WARN requestId=r-900312 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:27:10.000-05:00 INFO requestId=r-900313 route=/api/orders status=200 totalMs=9317 customerProfileMs=149 clientPoolWaitMs=9000
+2026-09-29T10:27:10.002-05:00 WARN requestId=r-900313 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:27:20.000-05:00 INFO requestId=r-900314 route=/api/orders status=200 totalMs=9283 customerProfileMs=109 clientPoolWaitMs=9000
+2026-09-29T10:27:20.002-05:00 WARN requestId=r-900314 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:27:30.000-05:00 INFO requestId=r-900315 route=/api/orders status=200 totalMs=9191 customerProfileMs=126 clientPoolWaitMs=9000
+2026-09-29T10:27:30.002-05:00 WARN requestId=r-900315 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:27:40.000-05:00 INFO requestId=r-900316 route=/api/orders status=200 totalMs=9258 customerProfileMs=101 clientPoolWaitMs=9000
+2026-09-29T10:27:40.002-05:00 WARN requestId=r-900316 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:27:50.000-05:00 INFO requestId=r-900317 route=/api/orders status=502 totalMs=9366 customerProfileMs=151 clientPoolWaitMs=9000
+2026-09-29T10:27:50.002-05:00 WARN requestId=r-900317 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:28:00.000-05:00 INFO requestId=r-900318 route=/api/orders status=200 totalMs=9147 customerProfileMs=96 clientPoolWaitMs=9000
+2026-09-29T10:28:00.002-05:00 WARN requestId=r-900318 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:28:10.000-05:00 INFO requestId=r-900319 route=/api/orders status=503 totalMs=9354 customerProfileMs=151 clientPoolWaitMs=9000
+2026-09-29T10:28:10.002-05:00 WARN requestId=r-900319 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:28:20.000-05:00 INFO requestId=r-900320 route=/api/orders status=503 totalMs=9302 customerProfileMs=126 clientPoolWaitMs=9000
+2026-09-29T10:28:20.002-05:00 WARN requestId=r-900320 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:28:30.000-05:00 INFO requestId=r-900321 route=/api/orders status=502 totalMs=9251 customerProfileMs=141 clientPoolWaitMs=9000
+2026-09-29T10:28:30.002-05:00 WARN requestId=r-900321 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:28:40.000-05:00 INFO requestId=r-900322 route=/api/orders status=200 totalMs=9178 customerProfileMs=86 clientPoolWaitMs=9000
+2026-09-29T10:28:40.002-05:00 WARN requestId=r-900322 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:28:50.000-05:00 INFO requestId=r-900323 route=/api/orders status=502 totalMs=9349 customerProfileMs=129 clientPoolWaitMs=9000
+2026-09-29T10:28:50.002-05:00 WARN requestId=r-900323 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:29:00.000-05:00 INFO requestId=r-900324 route=/api/orders status=503 totalMs=9354 customerProfileMs=158 clientPoolWaitMs=9000
+2026-09-29T10:29:00.002-05:00 WARN requestId=r-900324 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:29:10.000-05:00 INFO requestId=r-900325 route=/api/orders status=502 totalMs=9314 customerProfileMs=154 clientPoolWaitMs=9000
+2026-09-29T10:29:10.002-05:00 WARN requestId=r-900325 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:29:20.000-05:00 INFO requestId=r-900326 route=/api/orders status=503 totalMs=9238 customerProfileMs=98 clientPoolWaitMs=9000
+2026-09-29T10:29:20.002-05:00 WARN requestId=r-900326 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:29:30.000-05:00 INFO requestId=r-900327 route=/api/orders status=200 totalMs=9280 customerProfileMs=161 clientPoolWaitMs=9000
+2026-09-29T10:29:30.002-05:00 WARN requestId=r-900327 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:29:40.000-05:00 INFO requestId=r-900328 route=/api/orders status=503 totalMs=9295 customerProfileMs=110 clientPoolWaitMs=9000
+2026-09-29T10:29:40.002-05:00 WARN requestId=r-900328 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:29:50.000-05:00 INFO requestId=r-900329 route=/api/orders status=503 totalMs=9311 customerProfileMs=96 clientPoolWaitMs=9000
+2026-09-29T10:29:50.002-05:00 WARN requestId=r-900329 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:30:00.000-05:00 INFO requestId=r-900330 route=/api/orders status=200 totalMs=9221 customerProfileMs=145 clientPoolWaitMs=9000
+2026-09-29T10:30:00.002-05:00 WARN requestId=r-900330 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:30:10.000-05:00 INFO requestId=r-900331 route=/api/orders status=503 totalMs=9241 customerProfileMs=118 clientPoolWaitMs=9000
+2026-09-29T10:30:10.002-05:00 WARN requestId=r-900331 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:30:20.000-05:00 INFO requestId=r-900332 route=/api/orders status=502 totalMs=9276 customerProfileMs=147 clientPoolWaitMs=9000
+2026-09-29T10:30:20.002-05:00 WARN requestId=r-900332 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:30:30.000-05:00 INFO requestId=r-900333 route=/api/orders status=503 totalMs=9338 customerProfileMs=144 clientPoolWaitMs=9000
+2026-09-29T10:30:30.002-05:00 WARN requestId=r-900333 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:30:40.000-05:00 INFO requestId=r-900334 route=/api/orders status=502 totalMs=9224 customerProfileMs=101 clientPoolWaitMs=9000
+2026-09-29T10:30:40.002-05:00 WARN requestId=r-900334 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:30:50.000-05:00 INFO requestId=r-900335 route=/api/orders status=200 totalMs=9344 customerProfileMs=168 clientPoolWaitMs=9000
+2026-09-29T10:30:50.002-05:00 WARN requestId=r-900335 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:31:00.000-05:00 INFO requestId=r-900336 route=/api/orders status=502 totalMs=9316 customerProfileMs=136 clientPoolWaitMs=9000
+2026-09-29T10:31:00.002-05:00 WARN requestId=r-900336 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:31:10.000-05:00 INFO requestId=r-900337 route=/api/orders status=502 totalMs=9363 customerProfileMs=146 clientPoolWaitMs=9000
+2026-09-29T10:31:10.002-05:00 WARN requestId=r-900337 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:31:20.000-05:00 INFO requestId=r-900338 route=/api/orders status=200 totalMs=9267 customerProfileMs=140 clientPoolWaitMs=9000
+2026-09-29T10:31:20.002-05:00 WARN requestId=r-900338 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:31:30.000-05:00 INFO requestId=r-900339 route=/api/orders status=200 totalMs=9174 customerProfileMs=115 clientPoolWaitMs=9000
+2026-09-29T10:31:30.002-05:00 WARN requestId=r-900339 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:31:40.000-05:00 INFO requestId=r-900340 route=/api/orders status=200 totalMs=9305 customerProfileMs=147 clientPoolWaitMs=9000
+2026-09-29T10:31:40.002-05:00 WARN requestId=r-900340 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:31:50.000-05:00 INFO requestId=r-900341 route=/api/orders status=200 totalMs=9241 customerProfileMs=156 clientPoolWaitMs=9000
+2026-09-29T10:31:50.002-05:00 WARN requestId=r-900341 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:32:00.000-05:00 INFO requestId=r-900342 route=/api/orders status=200 totalMs=9351 customerProfileMs=136 clientPoolWaitMs=9000
+2026-09-29T10:32:00.002-05:00 WARN requestId=r-900342 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:32:10.000-05:00 INFO requestId=r-900343 route=/api/orders status=200 totalMs=9342 customerProfileMs=133 clientPoolWaitMs=9000
+2026-09-29T10:32:10.002-05:00 WARN requestId=r-900343 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:32:20.000-05:00 INFO requestId=r-900344 route=/api/orders status=200 totalMs=9284 customerProfileMs=96 clientPoolWaitMs=9000
+2026-09-29T10:32:20.002-05:00 WARN requestId=r-900344 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:32:30.000-05:00 INFO requestId=r-900345 route=/api/orders status=200 totalMs=9217 customerProfileMs=103 clientPoolWaitMs=9000
+2026-09-29T10:32:30.002-05:00 WARN requestId=r-900345 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:32:40.000-05:00 INFO requestId=r-900346 route=/api/orders status=502 totalMs=9377 customerProfileMs=163 clientPoolWaitMs=9000
+2026-09-29T10:32:40.002-05:00 WARN requestId=r-900346 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:32:50.000-05:00 INFO requestId=r-900347 route=/api/orders status=200 totalMs=9336 customerProfileMs=123 clientPoolWaitMs=9000
+2026-09-29T10:32:50.002-05:00 WARN requestId=r-900347 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:33:00.000-05:00 INFO requestId=r-900348 route=/api/orders status=200 totalMs=9329 customerProfileMs=140 clientPoolWaitMs=9000
+2026-09-29T10:33:00.002-05:00 WARN requestId=r-900348 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:33:10.000-05:00 INFO requestId=r-900349 route=/api/orders status=502 totalMs=9278 customerProfileMs=163 clientPoolWaitMs=9000
+2026-09-29T10:33:10.002-05:00 WARN requestId=r-900349 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:33:20.000-05:00 INFO requestId=r-900350 route=/api/orders status=200 totalMs=9172 customerProfileMs=132 clientPoolWaitMs=9000
+2026-09-29T10:33:20.002-05:00 WARN requestId=r-900350 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:33:30.000-05:00 INFO requestId=r-900351 route=/api/orders status=200 totalMs=9177 customerProfileMs=130 clientPoolWaitMs=9000
+2026-09-29T10:33:30.002-05:00 WARN requestId=r-900351 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:33:40.000-05:00 INFO requestId=r-900352 route=/api/orders status=200 totalMs=9277 customerProfileMs=140 clientPoolWaitMs=9000
+2026-09-29T10:33:40.002-05:00 WARN requestId=r-900352 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:33:50.000-05:00 INFO requestId=r-900353 route=/api/orders status=200 totalMs=9342 customerProfileMs=133 clientPoolWaitMs=9000
+2026-09-29T10:33:50.002-05:00 WARN requestId=r-900353 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:34:00.000-05:00 INFO requestId=r-900354 route=/api/orders status=503 totalMs=9277 customerProfileMs=145 clientPoolWaitMs=9000
+2026-09-29T10:34:00.002-05:00 WARN requestId=r-900354 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:34:10.000-05:00 INFO requestId=r-900355 route=/api/orders status=200 totalMs=9315 customerProfileMs=104 clientPoolWaitMs=9000
+2026-09-29T10:34:10.002-05:00 WARN requestId=r-900355 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:34:20.000-05:00 INFO requestId=r-900356 route=/api/orders status=502 totalMs=9178 customerProfileMs=102 clientPoolWaitMs=9000
+2026-09-29T10:34:20.002-05:00 WARN requestId=r-900356 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:34:30.000-05:00 INFO requestId=r-900357 route=/api/orders status=200 totalMs=9243 customerProfileMs=169 clientPoolWaitMs=9000
+2026-09-29T10:34:30.002-05:00 WARN requestId=r-900357 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:34:40.000-05:00 INFO requestId=r-900358 route=/api/orders status=200 totalMs=9320 customerProfileMs=102 clientPoolWaitMs=9000
+2026-09-29T10:34:40.002-05:00 WARN requestId=r-900358 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:34:50.000-05:00 INFO requestId=r-900359 route=/api/orders status=200 totalMs=9287 customerProfileMs=139 clientPoolWaitMs=9000
+2026-09-29T10:34:50.002-05:00 WARN requestId=r-900359 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:35:00.000-05:00 INFO requestId=r-900360 route=/api/orders status=502 totalMs=9290 customerProfileMs=142 clientPoolWaitMs=9000
+2026-09-29T10:35:00.002-05:00 WARN requestId=r-900360 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:35:10.000-05:00 INFO requestId=r-900361 route=/api/orders status=200 totalMs=9185 customerProfileMs=85 clientPoolWaitMs=9000
+2026-09-29T10:35:10.002-05:00 WARN requestId=r-900361 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:35:20.000-05:00 INFO requestId=r-900362 route=/api/orders status=200 totalMs=9306 customerProfileMs=119 clientPoolWaitMs=9000
+2026-09-29T10:35:20.002-05:00 WARN requestId=r-900362 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:35:30.000-05:00 INFO requestId=r-900363 route=/api/orders status=200 totalMs=9309 customerProfileMs=89 clientPoolWaitMs=9000
+2026-09-29T10:35:30.002-05:00 WARN requestId=r-900363 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:35:40.000-05:00 INFO requestId=r-900364 route=/api/orders status=200 totalMs=9315 customerProfileMs=99 clientPoolWaitMs=9000
+2026-09-29T10:35:40.002-05:00 WARN requestId=r-900364 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:35:50.000-05:00 INFO requestId=r-900365 route=/api/orders status=200 totalMs=9214 customerProfileMs=103 clientPoolWaitMs=9000
+2026-09-29T10:35:50.002-05:00 WARN requestId=r-900365 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:36:00.000-05:00 INFO requestId=r-900366 route=/api/orders status=200 totalMs=9347 customerProfileMs=151 clientPoolWaitMs=9000
+2026-09-29T10:36:00.002-05:00 WARN requestId=r-900366 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:36:10.000-05:00 INFO requestId=r-900367 route=/api/orders status=200 totalMs=9325 customerProfileMs=116 clientPoolWaitMs=9000
+2026-09-29T10:36:10.002-05:00 WARN requestId=r-900367 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:36:20.000-05:00 INFO requestId=r-900368 route=/api/orders status=200 totalMs=9285 customerProfileMs=166 clientPoolWaitMs=9000
+2026-09-29T10:36:20.002-05:00 WARN requestId=r-900368 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:36:30.000-05:00 INFO requestId=r-900369 route=/api/orders status=200 totalMs=9133 customerProfileMs=91 clientPoolWaitMs=9000
+2026-09-29T10:36:30.002-05:00 WARN requestId=r-900369 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:36:40.000-05:00 INFO requestId=r-900370 route=/api/orders status=200 totalMs=9329 customerProfileMs=143 clientPoolWaitMs=9000
+2026-09-29T10:36:40.002-05:00 WARN requestId=r-900370 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:36:50.000-05:00 INFO requestId=r-900371 route=/api/orders status=200 totalMs=9253 customerProfileMs=138 clientPoolWaitMs=9000
+2026-09-29T10:36:50.002-05:00 WARN requestId=r-900371 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:37:00.000-05:00 INFO requestId=r-900372 route=/api/orders status=200 totalMs=9298 customerProfileMs=106 clientPoolWaitMs=9000
+2026-09-29T10:37:00.002-05:00 WARN requestId=r-900372 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:37:10.000-05:00 INFO requestId=r-900373 route=/api/orders status=503 totalMs=9345 customerProfileMs=157 clientPoolWaitMs=9000
+2026-09-29T10:37:10.002-05:00 WARN requestId=r-900373 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:37:20.000-05:00 INFO requestId=r-900374 route=/api/orders status=200 totalMs=9272 customerProfileMs=158 clientPoolWaitMs=9000
+2026-09-29T10:37:20.002-05:00 WARN requestId=r-900374 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:37:30.000-05:00 INFO requestId=r-900375 route=/api/orders status=200 totalMs=9160 customerProfileMs=88 clientPoolWaitMs=9000
+2026-09-29T10:37:30.002-05:00 WARN requestId=r-900375 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:37:40.000-05:00 INFO requestId=r-900376 route=/api/orders status=503 totalMs=9204 customerProfileMs=94 clientPoolWaitMs=9000
+2026-09-29T10:37:40.002-05:00 WARN requestId=r-900376 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:37:50.000-05:00 INFO requestId=r-900377 route=/api/orders status=200 totalMs=9277 customerProfileMs=86 clientPoolWaitMs=9000
+2026-09-29T10:37:50.002-05:00 WARN requestId=r-900377 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:38:00.000-05:00 INFO requestId=r-900378 route=/api/orders status=502 totalMs=9275 customerProfileMs=169 clientPoolWaitMs=9000
+2026-09-29T10:38:00.002-05:00 WARN requestId=r-900378 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:38:10.000-05:00 INFO requestId=r-900379 route=/api/orders status=200 totalMs=9195 customerProfileMs=147 clientPoolWaitMs=9000
+2026-09-29T10:38:10.002-05:00 WARN requestId=r-900379 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:38:20.000-05:00 INFO requestId=r-900380 route=/api/orders status=200 totalMs=9174 customerProfileMs=95 clientPoolWaitMs=9000
+2026-09-29T10:38:20.002-05:00 WARN requestId=r-900380 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:38:30.000-05:00 INFO requestId=r-900381 route=/api/orders status=503 totalMs=9340 customerProfileMs=137 clientPoolWaitMs=9000
+2026-09-29T10:38:30.002-05:00 WARN requestId=r-900381 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:38:40.000-05:00 INFO requestId=r-900382 route=/api/orders status=200 totalMs=9239 customerProfileMs=111 clientPoolWaitMs=9000
+2026-09-29T10:38:40.002-05:00 WARN requestId=r-900382 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:38:50.000-05:00 INFO requestId=r-900383 route=/api/orders status=200 totalMs=9236 customerProfileMs=167 clientPoolWaitMs=9000
+2026-09-29T10:38:50.002-05:00 WARN requestId=r-900383 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:39:00.000-05:00 INFO requestId=r-900384 route=/api/orders status=503 totalMs=9267 customerProfileMs=106 clientPoolWaitMs=9000
+2026-09-29T10:39:00.002-05:00 WARN requestId=r-900384 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:39:10.000-05:00 INFO requestId=r-900385 route=/api/orders status=200 totalMs=9253 customerProfileMs=114 clientPoolWaitMs=9000
+2026-09-29T10:39:10.002-05:00 WARN requestId=r-900385 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:39:20.000-05:00 INFO requestId=r-900386 route=/api/orders status=200 totalMs=9269 customerProfileMs=118 clientPoolWaitMs=9000
+2026-09-29T10:39:20.002-05:00 WARN requestId=r-900386 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:39:30.000-05:00 INFO requestId=r-900387 route=/api/orders status=503 totalMs=9296 customerProfileMs=121 clientPoolWaitMs=9000
+2026-09-29T10:39:30.002-05:00 WARN requestId=r-900387 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:39:40.000-05:00 INFO requestId=r-900388 route=/api/orders status=200 totalMs=9247 customerProfileMs=97 clientPoolWaitMs=9000
+2026-09-29T10:39:40.002-05:00 WARN requestId=r-900388 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:39:50.000-05:00 INFO requestId=r-900389 route=/api/orders status=503 totalMs=9233 customerProfileMs=168 clientPoolWaitMs=9000
+2026-09-29T10:39:50.002-05:00 WARN requestId=r-900389 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:40:00.000-05:00 INFO requestId=r-900390 route=/api/orders status=502 totalMs=9380 customerProfileMs=168 clientPoolWaitMs=9000
+2026-09-29T10:40:00.002-05:00 WARN requestId=r-900390 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:40:10.000-05:00 INFO requestId=r-900391 route=/api/orders status=502 totalMs=9229 customerProfileMs=109 clientPoolWaitMs=9000
+2026-09-29T10:40:10.002-05:00 WARN requestId=r-900391 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:40:20.000-05:00 INFO requestId=r-900392 route=/api/orders status=200 totalMs=9129 customerProfileMs=86 clientPoolWaitMs=9000
+2026-09-29T10:40:20.002-05:00 WARN requestId=r-900392 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:40:30.000-05:00 INFO requestId=r-900393 route=/api/orders status=503 totalMs=9226 customerProfileMs=97 clientPoolWaitMs=9000
+2026-09-29T10:40:30.002-05:00 WARN requestId=r-900393 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:40:40.000-05:00 INFO requestId=r-900394 route=/api/orders status=502 totalMs=9319 customerProfileMs=121 clientPoolWaitMs=9000
+2026-09-29T10:40:40.002-05:00 WARN requestId=r-900394 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:40:50.000-05:00 INFO requestId=r-900395 route=/api/orders status=200 totalMs=9295 customerProfileMs=92 clientPoolWaitMs=9000
+2026-09-29T10:40:50.002-05:00 WARN requestId=r-900395 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:41:00.000-05:00 INFO requestId=r-900396 route=/api/orders status=200 totalMs=9173 customerProfileMs=100 clientPoolWaitMs=9000
+2026-09-29T10:41:00.002-05:00 WARN requestId=r-900396 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:41:10.000-05:00 INFO requestId=r-900397 route=/api/orders status=200 totalMs=9256 customerProfileMs=169 clientPoolWaitMs=9000
+2026-09-29T10:41:10.002-05:00 WARN requestId=r-900397 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:41:20.000-05:00 INFO requestId=r-900398 route=/api/orders status=502 totalMs=9311 customerProfileMs=108 clientPoolWaitMs=9000
+2026-09-29T10:41:20.002-05:00 WARN requestId=r-900398 component=customerProfileHttpPool leased=20 max=20 pending=128
+2026-09-29T10:41:30.000-05:00 INFO requestId=r-900399 route=/api/orders status=200 totalMs=9330 customerProfileMs=120 clientPoolWaitMs=9000
+2026-09-29T10:41:30.002-05:00 WARN requestId=r-900399 component=customerProfileHttpPool leased=20 max=20 pending=128

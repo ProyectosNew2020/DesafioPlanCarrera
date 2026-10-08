@@ -1,0 +1,10 @@
+2026-09-29 09:45:12 Warning Unhealthy pod/orders-api-7d9c liveness probe failed: timeout
+2026-09-29 09:45:14 Normal  Killing   pod/orders-api-7d9c container failed liveness probe
+2026-09-29 09:46:03 Warning Unhealthy pod/orders-api-a12f liveness probe failed: timeout
+2026-09-29 09:46:05 Normal  Killing   pod/orders-api-a12f container failed liveness probe
+2026-09-29 09:48:41 Warning Unhealthy pod/orders-api-4c21 liveness probe failed: timeout
+2026-09-29 09:48:43 Normal  Killing   pod/orders-api-4c21 container failed liveness probe
+2026-09-29 09:50:19 Warning Unhealthy pod/orders-api-b099 liveness probe failed: timeout
+2026-09-29 09:50:21 Normal  Killing   pod/orders-api-b099 container failed liveness probe
+2026-09-29 09:52:00 Normal  SuccessfulRescale HPA/orders-api New size: 18; reason: cpu resource utilization above target
+2026-09-29 09:54:11 Warning Unhealthy pod/orders-api-83ef liveness probe failed: timeout

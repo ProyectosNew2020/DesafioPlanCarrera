@@ -1,0 +1,6 @@
+customerProfile:
+  baseUrl: https://customer-profile.internal
+  maxConnections: 20
+  connectTimeoutMs: 1000
+  readTimeoutMs: 2000
+  pendingAcquireTimeoutMs: 5000

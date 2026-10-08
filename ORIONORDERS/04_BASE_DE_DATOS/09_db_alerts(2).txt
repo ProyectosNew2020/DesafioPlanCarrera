@@ -1,0 +1,11 @@
+09:47 ALERT CRITICAL db_connections_pct=92 host=db-reporting-01
+09:48 ALERT WARNING  db_cpu_pct=81 host=db-reporting-01
+09:55 ALERT CRITICAL db_connections_pct=96 host=db-reporting-01
+
+orders-api datasource:
+jdbc:postgresql://orders-primary-01:5432/orionorders
+
+DBA quick check at 10:02:
+orders-primary-01 connections: 118 / 300
+orders-primary-01 cpu: 44%
+orders-primary-01 lock waiters: 0
