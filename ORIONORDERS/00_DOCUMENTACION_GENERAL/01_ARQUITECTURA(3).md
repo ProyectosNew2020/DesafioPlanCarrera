@@ -1,22 +1,22 @@
-# OrionOrders - arquitectura resumida
+# OrionOrders: resumen de arquitectura
 
 Internet
- -> Load Balancer
-   -> Kubernetes / orders-api (12 pods normalmente)
+ -> Balanceador de carga
+   -> Kubernetes / orders-api (12 instancias de servicio, o pods, normalmente)
       -> PostgreSQL orders-primary
       -> customer-profile-service (HTTPS)
-      -> audit-service (async)
+      -> audit-service (asíncrono)
 
-Autoscaling:
-- HPA mínimo 8, máximo 30 pods.
-- objetivo CPU 65%.
+Escalado automático:
+- HPA mínimo 8, máximo 30 instancias de servicio (pods).
+- objetivo de CPU: 65%.
 
-Health probes:
-- readiness: /actuator/health/readiness
-- liveness: /actuator/health/liveness
+Comprobaciones de salud:
+- disponibilidad: /actuator/health/readiness
+- actividad: /actuator/health/liveness
 
-El endpoint de liveness atraviesa el mismo servidor HTTP/thread pool que el tráfico de negocio.
+El endpoint de actividad atraviesa el mismo servidor HTTP y grupo de hilos que el tráfico de negocio.
 
 customer-profile-service:
-- servicio externo interno.
-- latencia habitual p95: 80-150 ms.
+- servicio interno externo al componente orders-api.
+- latencia p95 habitual: 80-150 ms.
