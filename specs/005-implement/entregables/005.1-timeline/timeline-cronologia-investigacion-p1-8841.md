@@ -1,4 +1,4 @@
-# Cronología de investigación — OrionOrders P1-8841
+# <span style="color:#0B3C5D">Cronología de investigación — OrionOrders P1-8841</span>
 
 **Fecha del incidente:** 29 de septiembre de 2026  
 **Ventana de evidencia:** 09:21–10:41:30  
@@ -6,16 +6,16 @@
 **Declaración P1:** 09:49  
 **Recuperación:** no verificable con las fuentes entregadas
 
-## 1. Propósito y método
+## <span style="color:#0B3C5D">1. Propósito y método</span>
 
 Este documento ordena la investigación y reconstruye la secuencia del incidente
 correlacionando publicación, aplicación, pool HTTP, Kubernetes, balanceador,
 servicio dependiente, base de datos y comunicaciones operativas.
 
-- **Hecho medido/registrado:** valor de telemetría, log, pipeline o evento
+? **Hecho medido/registrado:** valor de telemetría, log, pipeline o evento
   directamente presente en una fuente.
-- **Hecho reportado:** hito narrado en la ficha del incidente o el chat.
-- **Interpretación:** explicación obtenida al correlacionar fuentes; no equivale
+? **Hecho reportado:** hito narrado en la ficha del incidente o el chat.
+? **Interpretación:** explicación obtenida al correlacionar fuentes; no equivale
   a causalidad probada.
 
 Las horas del log de aplicación incluyen el offset `-05:00`. Los CSV, eventos
@@ -28,7 +28,7 @@ por minuto, APM contiene muestras de trazas, el log registra solicitudes
 seleccionadas y Kubernetes aporta eventos puntuales. Las cifras no comparten
 necesariamente denominador ni alcance.
 
-## 2. Investigación organizada por fases
+## <span style="color:#0B3C5D">2. Investigación organizada por fases</span>
 
 | Fase | Ventana | Hallazgos principales |
 |---|---|---|
@@ -38,7 +38,7 @@ necesariamente denominador ni alcance.
 | D. Diagnóstico diferencial | 09:47–10:02 | La alarma de conexiones/CPU corresponde a `db-reporting-01`, no al datasource de orders-api. La comprobación de `orders-primary-01` no muestra saturación a las 10:02. El equipo identifica el cambio de configuración y la cola. |
 | E. Persistencia de degradación | 09:53–10:41:30 | Los CSV agregados terminan entre 10:14 y 10:15, pero logs de aplicación siguen hasta 10:41:30 con esperas de 9000 ms y 128 pendientes. No se observa recuperación. |
 
-## 3. Cronología detallada
+## <span style="color:#0B3C5D">3. Cronología detallada</span>
 
 | Hora | Evento y evidencia | Dominio / fuente | Interpretación y limitación |
 |---|---|---|---|
@@ -90,7 +90,7 @@ necesariamente denominador ni alcance.
 | 10:40 | Log app: status 502, total 9380 ms, espera 9000 ms, downstream 168 ms, 128 pendientes. | Aplicación — log orders-api | Persistencia de error en la última parte del archivo. |
 | 10:41:30 | Última línea del log: status 200, total 9330 ms, espera 9000 ms; warning de pool 20/20 con 128 pendientes. | Aplicación — log orders-api | Último evento suministrado; 200 no significa recuperación con latencia/cola persistentes. No hay observación posterior. |
 
-## 4. Evolución cuantitativa
+## <span style="color:#0B3C5D">4. Evolución cuantitativa</span>
 
 | Hora | p95 balanceador | HTTP 5xx balanceador | Pods listos | Señal de aplicación |
 |---|---:|---:|---:|---|
@@ -109,7 +109,7 @@ Los valores de pods listos son instantáneas; los tiempos de espera y pendientes
 son muestras de logs, no percentiles globales. El valor de espera de 9000 ms
 puede representar un límite de timeout o instrumentación.
 
-## 5. Correlación entre dominios
+## <span style="color:#0B3C5D">5. Correlación entre dominios</span>
 
 | Dominio | Evidencia | Conclusión permitida |
 |---|---|---|
@@ -121,7 +121,7 @@ puede representar un límite de timeout o instrumentación.
 | Balanceador | p95 de 0.7 s a 09:41 y 10.2 s a 10:15; 5xx de 0.4% y 38%. | Deterioro agregado hasta 10:15; no hay métricas de balanceador posteriores. |
 | Integridad de pedidos | Ficha refiere ausencia de evidencia inicial de pérdida; smoke crea una orden de prueba antes del incidente. | No es conciliación del periodo afectado. Pérdidas, duplicados y hora de recuperación no verificables. |
 
-## 6. Interpretación y certeza
+## <span style="color:#0B3C5D">6. Interpretación y certeza</span>
 
 1. **El síntoma precede a los reinicios observados:** primera alerta/espera a
    las 09:42; primer timeout de liveness a las 09:45:12. Por esta cronología,
@@ -134,9 +134,9 @@ puede representar un límite de timeout o instrumentación.
 4. **La alerta DB corresponde a otro host:** la alerta apunta a
    `db-reporting-01`; la comprobación puntual de `orders-primary-01` no muestra
    saturación a las 10:02.
-5. **No puede inferirse recuperación del final de una serie:** los CSV agregados
-   terminan entre 10:14 y 10:15, pero orders-api sigue registrando espera/cola
-   hasta las 10:41:30.
+5. **No puede inferirse la recuperación al final de una serie:** los CSV
+   agregados terminan entre 10:14 y 10:15, pero orders-api sigue registrando
+   espera/cola hasta las 10:41:30.
 
 **Conclusión provisional:** la saturación del pool HTTP de orders-api hacia
 customer-profile está fuertemente respaldada. El cambio documentado de 200 a
@@ -149,39 +149,18 @@ amplificado el impacto; su contribución no está cuantificada. La evidencia
 disponible no respalda la DB primaria como causa. No se demuestra mitigación,
 recuperación sostenida ni integridad completa de las órdenes.
 
-## 7. Límites y evidencia pendiente
+## <span style="color:#0B3C5D">7. Límites y evidencia pendiente</span>
 
-- Historial de ConfigMap/Helm y valor activo de pool por instancia durante el
+? Historial de ConfigMap/Helm y valor activo de pool por instancia durante el
   rollout y el incidente.
-- Métricas completas por pool: conexiones ocupadas/libres, pendientes, tiempo
+? Métricas completas por pool: conexiones ocupadas/libres, pendientes, tiempo
   de adquisición, errores y duración de arriendo.
-- Correlación de pods terminados con carga, hilos HTTP, liveness, readiness y
+? Correlación de pods terminados con carga, hilos HTTP, liveness, readiness y
   tráfico; validar la anomalía del contador `cumulative_restarts`.
-- Telemetría agregada posterior a las 10:15 para establecer la hora de
+? Telemetría agregada posterior a las 10:15 para establecer la hora de
   recuperación y evaluar p95, p99 y 5xx.
-- Conciliación autorizada de órdenes aceptadas, confirmadas, fallidas y
+? Conciliación autorizada de órdenes aceptadas, confirmadas, fallidas y
   duplicadas; no modificar datos directamente.
 
-## 8. Fuentes principales
 
-- `ORIONORDERS/01_SOPORTE_INCIDENTE/02_P1-8841(2).txt` — hitos e impacto
-  reportado.
-- `ORIONORDERS/01_SOPORTE_INCIDENTE/16_chat_crisis(2).txt` — comunicaciones
-  durante la respuesta.
-- `ORIONORDERS/02_APLICACION_DESARROLLO/05_orders-api(2).log` — solicitudes,
-  pool, cola y errores; 09:35–10:41:30.
-- `ORIONORDERS/02_APLICACION_DESARROLLO/08_customer_profile_metrics(2).csv` —
-  latencia y error agregados de la dependencia.
-- `ORIONORDERS/02_APLICACION_DESARROLLO/13_apm_trace_breakdown(2).csv` —
-  tiempo total, pool wait, red y DB por traza.
-- `ORIONORDERS/03_INFRAESTRUCTURA/06_k8s_pod_metrics(2).csv`,
-  `07_k8s_events(2).log` y `10_load_balancer_metrics(2).csv` — pods, eventos y
-  entrada de tráfico.
-- `ORIONORDERS/04_BASE_DE_DATOS/09_db_alerts(2).txt` — host de alertas,
-  datasource y comprobación de la primaria.
-- `ORIONORDERS/05_DEVOPS_CICD_RELEASE/03_RELEASE_4.18.0(2).md` y
-  `04_pipeline_4.18.0(3).log` — cambios y etapas de publicación.
-- `ORIONORDERS/03_INFRAESTRUCTURA/11_health_probe_config(2).yaml` y
-  `ORIONORDERS/00_DOCUMENTACION_GENERAL/01_ARQUITECTURA(3).md` — sondas y
-  arquitectura.
 
