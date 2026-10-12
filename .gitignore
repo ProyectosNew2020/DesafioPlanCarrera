@@ -1,0 +1,13 @@
+# Java build outputs for future orders-api implementation
+target/
+build/
+.gradle/
+*.class
+*.jar
+
+# Temporary and local editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.idea/
