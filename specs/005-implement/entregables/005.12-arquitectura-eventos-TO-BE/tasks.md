@@ -79,6 +79,7 @@ description: "Actionable tasks for the TO-BE adaptive HTTP pool architecture del
 - [X] T008 [US3] Document in `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md` the idle-retirement eligibility rules and active-request lifecycle; if the actual Java client requires pool replacement, describe routing new work to a new generation, draining the old generation until idle, and counting overlap against the aggregate budget.
 - [X] T009 [US3] Specify in `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md` ceiling behavior, bounded pending work, actionable alerts, stale/missing/contradictory telemetry safe-hold behavior, and operator disable/rollback without closing active requests.
 - [X] T010 [US3] Add a validation matrix to `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md` covering rising and falling load, downstream distress, local and aggregate ceilings, active requests during drain/disable, stale signals, replica-count changes, and rollback; include the approved SLO targets from `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/spec.md` without claiming that capacity growth alone guarantees recovery.
+- [ ] T014 Confirm with application/operations and the `customer-profile-service` owner the review status and validation protocol (load profile, runs per scenario, measurement windows, and interruption-attribution method); record approvals, pending decisions, and agreed values in `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md` without inventing limits or test parameters.
 
 **Checkpoint**: The retirement, limit, degraded-observation, and validation behaviors can be reviewed independently against User Story 3's acceptance scenarios.
 
@@ -88,9 +89,9 @@ description: "Actionable tasks for the TO-BE adaptive HTTP pool architecture del
 
 **Purpose**: Export and verify the complete architecture package.
 
-- [X] T011 [P] Check for an existing PDF export workflow and, if available, render `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md` to `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.pdf`; if no supported workflow is available, record that limitation in `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/tasks.md` rather than introducing an unapproved dependency.
-- [X] T012 [P] Review `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md` against FR-001–FR-014 and SC-001–SC-006 in `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/spec.md`; correct missing requirements, broken relative links, unsupported numeric defaults, or confusion between observed facts and proposed components.
-- [X] T013 Compare `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.pdf` with `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md`; verify that the original AS-IS PDF diagram is visibly preserved in the TO-BE overlay and that headings, links/references, limits, and SLOs remain legible and consistent.
+- [ ] T011 [P] Check for an existing PDF export workflow and, if available, render `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md` to `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.pdf`; if no supported workflow is available, record that limitation in `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/tasks.md` rather than introducing an unapproved dependency.
+- [ ] T012 [P] Review `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md` against FR-001–FR-014 and SC-001–SC-006 in `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/spec.md`; correct missing requirements, broken relative links, unsupported numeric defaults, or confusion between observed facts and proposed components.
+- [ ] T013 Compare `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.pdf` with `specs/005-implement/entregables/005.12-arquitectura-eventos-TO-BE/arquitectura-eventos-TO-BE.md`; verify that the original AS-IS PDF diagram is visibly preserved in the TO-BE overlay and that headings, links/references, limits, and SLOs remain legible and consistent.
 
 ---
 
@@ -101,7 +102,7 @@ description: "Actionable tasks for the TO-BE adaptive HTTP pool architecture del
 - **Setup (Phase 1)**: T001 creates the architecture document scaffold.
 - **Foundational (Phase 2)**: T002 depends on T001 and establishes the evidence baseline for all stories.
 - **User Stories (Phases 3–5)**: US1 follows T002; US2 follows US1; US3 follows US2 because each increment extends the same architecture document and diagram.
-- **Polish (Phase 6)**: T011 and T012 can run in parallel after T010; T013 follows both and checks the final package.
+- **Polish (Phase 6)**: T014 follows T010 and records the agreed review status and validation protocol; T011 and T012 follow T014 and can run in parallel; T013 follows both and checks the final package.
 
 ### User Story Dependencies
 
@@ -111,15 +112,15 @@ description: "Actionable tasks for the TO-BE adaptive HTTP pool architecture del
 
 ### Parallel Opportunities
 
-- After T010 is complete and the Markdown content is stable, **T011 (PDF export)** and **T012 (requirements review)** can run in parallel because they work on separate outputs/read-only review.
+- After T014 records the review status and validation protocol, **T011 (PDF export)** and **T012 (requirements review)** can run in parallel because they work on separate outputs/read-only review.
 - Story implementation tasks are intentionally sequential because they extend the same architecture document and depend on the flow and capacity policy established by earlier stories.
 
 ### Dependency Graph
 
 ```text
-T001 -> T002 -> T003 -> T004 -> T005 -> T006 -> T007 -> T008 -> T009 -> T010
-                                                                          |-> T011 --|
-                                                                          |-> T012 --|-> T013
+T001 -> T002 -> T003 -> T004 -> T005 -> T006 -> T007 -> T008 -> T009 -> T010 -> T014
+                                                                                       |-> T011 --|
+                                                                                       |-> T012 --|-> T013
 ```
 
 ## Implementation Strategy
@@ -140,6 +141,6 @@ T001 -> T002 -> T003 -> T004 -> T005 -> T006 -> T007 -> T008 -> T009 -> T010
 
 ## Notes
 
-- Tests are not separate tasks because the specification requests an architecture proposal and scenario-based validation criteria, not TDD or application implementation.
+- Application tests are outside this documentation-only scope; T014 records the agreed protocol required before future controlled validation.
 - The Markdown architecture document is canonical; no Java source, external API contract, arbitrary threshold, or production change is in scope.
 - `[P]` tasks operate on separate outputs after the architecture content is complete.
