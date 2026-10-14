@@ -6,7 +6,7 @@
 
 ## <span style="color:#0B3C5D">1. Objetivo y alcance</span>
 
-La propuesta es desarrollar un mecanismo en Java para que `orders-api` detecte la saturación de su pool HTTP, aumente la capacidad de forma controlada y gestione las conexiones inactivas sin interrumpir las solicitudes que están en curso.
+La propuesta es diseñar un mecanismo en Java para que `orders-api` detecte la saturación de su pool HTTP, aumente la capacidad de forma controlada y gestione las conexiones inactivas sin interrumpir las solicitudes que están en curso.
 
 El diseño propone `Apache HttpClient 5` para la gestión ajustable del pool por instancia, sujeto a confirmar su versión y compatibilidad con la implementación real de `orders-api`. Conserva la llamada síncrona a `customer-profile-service` y mantiene separado el flujo asíncrono de auditoría. La adaptación no garantiza por sí sola la recuperación ni autoriza cambios productivos.
 
@@ -92,7 +92,7 @@ Registrar y visualizar, como mínimo:
 • Conexiones inactivas retiradas, generaciones en drenado, solapamiento contabilizado, límites alcanzados y fallos de ajuste.
 • Modo del controlador (**DISABLED**, **SHADOW**, **ENFORCING** o **SAFE_HOLD**), frescura de señales y alertas operativas.
 
-La validación se realiza primero en un entorno no productivo aprobado y luego por etapas con autorización, monitoreo y reversión preparada. No ejecutar carga o inyección de fallos en producción sin aprobación explícita.
+La validación se realiza primero en un entorno no productivo aprobado y luego por etapas con autorización, monitoreo y reversión preparada. Antes de ejecutar las pruebas, los responsables deben acordar y registrar el perfil de carga, el número de ejecuciones por escenario, las ventanas de medición y el método para atribuir interrupciones al controlador. No ejecutar carga o inyección de fallos en producción sin aprobación explícita.
 
 | Escenario | Resultado requerido |
 |---|---|
@@ -112,6 +112,6 @@ En el 100% de las pruebas controladas, no debe haber interrupciones atribuibles 
 • **Aplicación:** identificar cliente HTTP Java, versión, límites modificables, semántica de retiro inactivo, drenado y cierre.
 • **Operaciones:** validar métricas, ventanas, umbrales, alertas, modo de despliegue y procedimiento de reversión.
 • **Propietario de `customer-profile-service`:** aprobar presupuesto agregado, política ante saturación y comportamiento ante cambios de réplicas.
-• **Responsables de validación:** revisar evidencia de pruebas controladas y autorizar explícitamente cualquier etapa de producción.
+• **Responsables de validación:** acordar y registrar el perfil de carga, el número de ejecuciones por escenario, las ventanas de medición y el método de atribución de interrupciones; revisar evidencia de pruebas controladas y autorizar explícitamente cualquier etapa de producción.
 
 Hasta cerrar estas decisiones, la propuesta permanece en modo documental/shadow; no se habilitan aumentos automáticos ni se presume un máximo downstream seguro.
