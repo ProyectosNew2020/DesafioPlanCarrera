@@ -6,7 +6,7 @@
 
 ## Summary
 
-Produce a TO-BE architecture deliverable that extends the documented AS-IS request and audit flows with a preventive, bounded pool-management control loop. It will distinguish local pool wait from downstream latency, increase capacity only within approved per-instance and global limits, and retire only idle connections while in-flight requests complete. The proposal remains library-neutral because the supplied workspace has no application source or dependency manifest. This phase documents and validates the proposal; it does not implement Java code or authorize production changes.
+Produce a TO-BE architecture deliverable that extends the documented AS-IS request and audit flows with a preventive, bounded pool-management control loop. It will distinguish local pool wait from downstream latency, increase capacity only within approved per-instance and global limits, and retire only idle connections while in-flight requests complete. Apache HttpClient 5 is the proposed Java client for per-instance pool adjustment and idle-connection release. Its version and integration remain subject to verification before implementation. This phase documents and validates the proposal; it does not implement Java code or authorize production changes.
 
 ## Technical Context
 
